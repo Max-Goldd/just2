@@ -5,15 +5,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
 
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D.
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D..
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
@@ -165,7 +160,7 @@ https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 
-#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BLOOMBERG HT.tr" tvg-logo="https://github.com/Oktay2617/gunestv/blob/main/tv_logo/bloomberg-ht-tr.png?raw=true" group-title="Genel",BLOOMBERG HT
+#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BLOOMBERG HT.tr" tvg-logo="https://github.com/Oktay2617/gunestv/blob/c519b79da4507dff81803c678fd4e0bd3cc31289/tv_logo/bloomberg-ht-tr.png" group-title="Genel",BLOOMBERG HT
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bloomberg_Ht.m3u8?t=1771525061
