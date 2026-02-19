@@ -8,7 +8,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/playlist.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",STAR TV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
@@ -55,7 +55,7 @@ https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 
-#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BLOOMBERG HT.tr" tvg-logo="https://github.com/Oktay2617/gunestv/blob/c519b79da4507dff81803c678fd4e0bd3cc31289/tv_logo/bloomberg-ht-tr.png" group-title="Genel",BLOOMBERG HT
+#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BLOOMBERG HT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Genel",BLOOMBERG HT
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bloomberg_Ht.m3u8?t=1771525061
@@ -155,8 +155,3 @@ https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://dsmartgo-live.ercdn.net/ulusalmozaik/ulusalmozaik_1080p.m3u8
-
-#EXTINF:-1 tvg-name="Haber Mozaik" tvg-id="" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Haber",Haber Mozaik
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/habermozaik/habermozaik.m3u8
