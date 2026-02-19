@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
@@ -30,8 +30,8 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/playlist.m3u8
-#http://116.202.238.88/FOXTV_TR/index.m3u8
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
@@ -39,7 +39,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
 http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="TV8 BUÇUK" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Genel",TV8 BUÇUK
+#EXTINF:-1 tvg-name="TV8,5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Genel",TV8,5
 #https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 #https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
@@ -48,8 +48,8 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/playlist.m3u8
-#https://helga.iptv2022.com/sh/trt_1/index.m3u8
-http://116.202.238.88/TRT1_TR/index.m3u8
+https://helga.iptv2022.com/sh/trt_1/index.m3u8
+#http://116.202.238.88/TRT1_TR/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Genel",TRT 2
 #EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
