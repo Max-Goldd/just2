@@ -1,183 +1,129 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Genel",Kanal D
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" group-title="Genel",KANAL D
+https://cdn-eu.tivimivi.com/streams/113/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" group-title="Genel",KANAL D
+http://slayerteam.in.rs:80/play/live.php?mac=A0:BB:3E:05:1D:79&stream=912478&extension=m3u8&live=true
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" group-title="Genel",KANAL D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" group-title="Genel",KANAL D
+https://cdn-eu.tivimivi.com/streams/113/master.m3u8
 
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#http://89.187.191.41/ATV-HD-TR/video.m3u8
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" group-title="Genel",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" group-title="Genel",ATV
+https://cdn-eu.tivimivi.com/streams/121/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" group-title="Genel",ATV
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5990.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" group-title="Genel",ATV
+https://cdn-eu.tivimivi.com/streams/121/master.m3u8
 
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",STAR TV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
-#https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" group-title="Genel",STAR TV
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" group-title="Genel",STAR TV
+https://cdn-eu.tivimivi.com/streams/118/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" group-title="Genel",STAR TV
+https://cdn-eu.tivimivi.com/streams/118/master.m3u8
 
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Genel",SHOW TV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/playlist.m3u8
-http://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
-#https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" group-title="Genel",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" group-title="Genel",SHOW TV
+https://cdn-eu.tivimivi.com/streams/109/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" group-title="Genel",SHOW TV
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5989.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" group-title="Genel",SHOW TV
+https://cdn-eu.tivimivi.com/streams/109/master.m3u8
 
-#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Genel",Now TV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/playlist.m3u8
-#https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" group-title="Genel",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" group-title="Genel",Now TV
+https://dogus.tecostream.xyz/now.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" group-title="Genel",Now TV
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5986.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" group-title="Genel",Now TV
+https://cdn-eu.tivimivi.com/streams/108/master.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" group-title="Genel",Now TV
+https://a.abdcev.workers.dev/live/index.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Genel",TV 8
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
-http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" group-title="Genel",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" group-title="Genel",TV 8
+http://149.13.0.66:4002/tv8hd
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" group-title="Genel",TV 8
+https://cdn-eu.tivimivi.com/streams/107/master.m3u8
 
-#EXTINF:-1 tvg-name="TV8,5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Genel",TV8,5
-#https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="Genel",TV 8,5
+http://149.13.0.66:4002/tv85hd
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Genel",TRT 1
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/playlist.m3u8
-https://helga.iptv2022.com/sh/trt_1/index.m3u8
-#http://116.202.238.88/TRT1_TR/index.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" group-title="Genel",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" group-title="Genel",TRT 1
+http://149.13.0.66:4000/trt1hd
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" group-title="Genel",TRT 1
+https://turkuaz.tecostream.xyz/proxy?url=https://tv-trt1-esdai.medya.trt.com.tr/master_1440p.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" group-title="Genel",TRT 1
+https://cdn-eu.tivimivi.com/streams/153/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Genel",TRT 2
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/playlist.m3u8
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" group-title="Genel",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" group-title="Genel",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Genel",TRT BELGESEL
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_1080p.m3u8
-#https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtvbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="Genel",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="Genel",TEVE 2
+https://turkuaz.tecostream.xyz/proxy?url=https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Genel",TLC
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc.m3u8
-
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Genel",DMAX
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
-
-#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BLOOMBERG HT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Genel",BLOOMBERG HT
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bloomberg_Ht.m3u8?t=1771525061
-#https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
-#https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
-#https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Genel",CNBC-E
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-
-#EXTINF:-1 tvg-id="360.tr@SD" group-title="Genel",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1 tvg-id="BeyazTV.tr@SD" group-title="Genel",Beyaz TV (1080p)
-#https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-#https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ.TV.HD.tr" group-title="Genel",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Genel",Bloomberg HT (720p)
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360.HD.tr" group-title="Genel",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="360" tvg-id="360.HD.tr" group-title="Genel",360 TV
+https://trn03.tulix.tv/gt-sky360/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="Genel",TV 4
+https://trn03.tulix.tv/gt-tv4/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TABII TV" tvg-id="tabii.TV.tr" group-title="Genel",TABII TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="Genel",BLOOMBERG HT
+https://goldvod.org/live/hpgdiscoo/123456/498.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="Genel",BLOOMBERG HT
+https://cdn-eu.tivimivi.com/streams/111/master.m3u8
+
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="Genel",CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="Genel",CNBC-E
+https://cdn-eu.tivimivi.com/streams/120/master.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" group-title="Genel",TLC
+https://cdn-eu.tivimivi.com/streams/115/master.m3u8
+
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" group-title="Genel",DMAX
+https://cdn-eu.tivimivi.com/streams/119/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" group-title="Genel",TRT BELGESEL
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" group-title="Genel",TRT BELGESEL
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
+
+#EXTINF:-1 tvg-name="YANSIMA SINEMA" tvg-id="YANSIMA.SINEMA.tr" tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png"  group-title="Genel",YANSIMA SINEMA
+http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
+
+#EXTINF:-1 tvg-name="KUZEYMAX" tvg-id="KUZEYMAX.tr" tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png" group-title="Genel",KUZEYMAX
+http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
+
+#EXTINF:-1 tvg-name="TV100" tvg-id="TV100.tr" group-title="Haber",TV100
+https://cdn-eu.tivimivi.com/streams/116/master.m3u8
+
+#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.HD.tr" group-title="Haber",NTV
+https://cdn-eu.tivimivi.com/streams/128/master.m3u8
+
+#EXTINF:-1 tvg-name="CNN TÜRK HD" tvg-id="CNN.TÜRK.HD.tr" group-title="Haber",CNN TURK
+https://cdn-eu.tivimivi.com/streams/114/master.m3u8
 
 
-#EXTINF:-1 tvg-name="HABERTURK HD" tvg-id="HABERTÜRK.HD.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",HABERTURK
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber",NTV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",Haber Global
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8
-
-#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",Sözcü TV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8
-
-#EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",Halk TV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-name="MK TV" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png" group-title="Haber",MK TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-
-#EXTINF:-1 tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",MELTEM TV
-https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber",TRT HABER
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/trthaber/trthaber.m3u8
-
-#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber",TGRT Haber
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber_1080p.m3u8
-
-#EXTINF:-1 tvg-name="24 TV" tvg-id="24.HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber",24 TV
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/24/24.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="ÜLKE.TV.HD.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber",ÜLKE TV HD
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/ulketv/ulketv.m3u8
-
-#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.HD.tr" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="Haber",TV NET
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/tvnet/tvnet.m3u8
-
-#EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
-
-#EXTINF:-1 tvg-name="AHABER" tvg-id="A.HABER.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A HABER
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8
-
-#EXTINF:-1 tvg-name="Flash TV" tvg-id="FLASH.HABER.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Haber",FLASH HABER
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8
-
-#EXTINF:-1 tvg-name="Genel Mozaik" tvg-id="Mozaik" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Genel",Genel Mozaik
-#EXTVLCOPT:http-referrer=https://www.dsmartgo.com.tr/tv-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://dsmartgo-live.ercdn.net/ulusalmozaik/ulusalmozaik_1080p.m3u8
