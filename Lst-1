@@ -52,7 +52,7 @@ http://149.13.0.66:4002/tv8hd
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" group-title="Genel",TV 8
 https://cdn-eu.tivimivi.com/streams/107/master.m3u8
 
-#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="Genel",TV 8,5
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="Genel",TV 8.5
 http://149.13.0.66:4002/tv85hd
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" group-title="Genel",TRT 1
