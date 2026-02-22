@@ -156,10 +156,10 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
 #EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="Genel",BBC EARTH
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937
 
-#EXTINF:-1 tvg-name="BEIN IZ" tvg-id="BEIN.IZ.tr" group-title="Genel",beIN IZ
+#EXTINF:-1 tvg-name="IZ" tvg-id="IZ.tr" group-title="Genel",IZ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49427
 
-#EXTINF:-1 tvg-name="BEIN GURME" tvg-id="BEIN.GURME.tr" group-title="Genel",beIN GURME
+#EXTINF:-1 tvg-name="GURME" tvg-id="GURME.tr" group-title="Genel",GURME
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49428
 
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="Genel",DISCOVERY CHANNEL
