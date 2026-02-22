@@ -209,13 +209,17 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg"  group-title="Genel",TELEON
 #EXTVLCOPT:network-caching=1000
-#https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
 https://tecostream.xyz/teleonat.php?stream.m3u8
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg"  group-title="Genel",TELEON
+#EXTVLCOPT:network-caching=1000
+https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="Genel",BONCUK TV
 #EXTVLCOPT:network-caching=1000
-#http://104.238.23.221/BoncukTV/live/index.m3u8
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="Genel",BONCUK TV
+#EXTVLCOPT:network-caching=1000
+http://104.238.23.221/BoncukTV/live/index.m3u8
 
 #EXTINF:-1 tvg-name="AFROTURK TV" tvg-id="AFROTURK.TV.tr" group-title="Genel",AFROTURK TV
 #EXTVLCOPT:network-caching=1000
