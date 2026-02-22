@@ -165,16 +165,13 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49428
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="Genel",DISCOVERY CHANNEL
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48952
 
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" tvg-id="DISCOVERY.SCIENCE.HD.tr" group-title="Genel",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="DISCOVERY.ID.HD.tr" group-title="Genel",DISCOVERY ID
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953
 
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Genel",NAT GEO
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48954
 
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.HD.tr" group-title="Genel",NAT GEO WILD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48955 NAT GEO WILD
-
-#EXTINF:-1 tvg-name="LOVE NATURE HD" tvg-id="LOVE.NATURE.HD.tr" group-title="Genel",NAT GEOLOVE NATURE
+#EXTINF:-1 tvg-name="LOVE NATURE HD" tvg-id="LOVE.NATURE.HD.tr" group-title="Genel",NATURE ESCAPE
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48956
 
 #EXTINF:-1 tvg-name="BOX BELGESEL 1" tvg-id="BOX.BELGESEL.1.tr" group-title="Genel",BOX BELGESEL 1
