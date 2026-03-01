@@ -1,170 +1,151 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
 ################################################         BELGESEL       ##############################################################################
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Belgesel",TLC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="BELGESEL",TLC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Belgesel",TLC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="BELGESEL",TLC
 https://cdn-eu.tivimivi.com/streams/115/master.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="Belgesel",TLC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="BELGESEL",TLC
 http://tv.glturk.workers.dev/?ID=TLC_HD
 
-#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Belgesel",DMAX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
 https://cdn-eu.tivimivi.com/streams/119/master.m3u8
-#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Belgesel",DMAX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961
-#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="Belgesel",DMAX
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
 http://tv.glturk.workers.dev/?ID=DMax_HD
 
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Belgesel",TRT BELGESEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
 
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="Belgesel",BBC EARTH
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="Belgesel",BBC EARTH
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
 http://65.108.239.207/bbc/index.m3u8
 
-#EXTINF:-1 tvg-name="IZ" tvg-id="IZ.tr" group-title="Belgesel",IZ
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="IZ" tvg-id="IZ.tr" group-title="BELGESEL",IZ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49427
 
-#EXTINF:-1 tvg-name="GURME" tvg-id="GURME.tr" group-title="Belgesel",GURME
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="GURME" tvg-id="GURME.tr" group-title="BELGESEL",GURME
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49428
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="Belgesel",DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="BELGESEL",DISCOVERY CHANNEL
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48952
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="Belgesel",DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="BELGESEL",DISCOVERY CHANNEL
 http://65.108.239.207:80/discovery/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="Belgesel",DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="BELGESEL",DISCOVERY CHANNEL
 http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
 
-#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="DISCOVERY.ID.HD.tr" group-title="Belgesel",DISCOVERY ID
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="DISCOVERY.ID.HD.tr" group-title="BELGESEL",DISCOVERY ID
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953
-#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="DISCOVERY.ID.HD.tr" group-title="Belgesel",DISCOVERY ID
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="DISCOVERY.ID.HD.tr" group-title="BELGESEL",DISCOVERY ID
 http://65.108.239.207:80/discs/index.m3u8
 
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="Belgesel",NAT GEO
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="BELGESEL",NAT GEO
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48954
 
-#EXTINF:-1 tvg-name="BOX BELGESEL 1" tvg-id="BOX.BELGESEL.1.tr" group-title="Belgesel",BOX BELGESEL 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="BOX BELGESEL 1" tvg-id="BOX.BELGESEL.1.tr" group-title="BELGESEL",BOX BELGESEL 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49423
-#EXTINF:-1 tvg-name="BOX BELGESEL 2" tvg-id="BOX.BELGESEL.2.tr" group-title="Belgesel",BOX BELGESEL 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="BOX BELGESEL 2" tvg-id="BOX.BELGESEL.2.tr" group-title="BELGESEL",BOX BELGESEL 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49424
 
-#EXTINF:-1 tvg-id=""  tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38" group-title="Belgesel", MMN TURK TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="VIZI BELGESEL" tvg-id="VIZI.BELGESEL.tr" group-title="BELGESEL",VIZI BELGESEL
+https://tv.cdn-vizi.workers.dev/?ID=96
+
+#EXTINF:-1 tvg-name="VIZON WILD" tvg-id="VIZON.WILD.tr" group-title="BELGESEL",VIZON WILD
+https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-name="MMN TURK TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38" group-title="BELGESEL", MMN TURK TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8
-#
+
+################################################          SPOR          ##############################################################################
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-id="EUROSPORT.1.tr" group-title="SPOR",EUROSPORT 1
+http://uro-levene-1012.mywire.org/index.php?id=196844&token=DeaTHLesS
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-id="EUROSPORT.2.tr" group-title="SPOR",EUROSPORT 2
+http://uro-levene-1012.mywire.org/index.php?id=196845&token=DeaTHLesS
 ################################################          HABER         ##############################################################################
-#EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTÜRK.HD.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="Haber",HABERTURK
-#EXTVLCOPT:network-caching=1000
+###############################          BLOOMBERG HT          ################################################################################
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="HABER",BLOOMBERG HT
+https://cdn-eu.tivimivi.com/streams/111/master.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="HABER",BLOOMBERG HT
+https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="HABER",BLOOMBERG HT
+https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8
+
+###############################          CNBC-E          #######################################################################################
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-E
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-E
+https://cdn-eu.tivimivi.com/streams/120/master.m3u8
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-E
+https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
+
+################################################################################################################################################
+#EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTÜRK.HD.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="HABER",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="Haber",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 
-#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",SZC TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SZC TV
 https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="Haber",SZC TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SZC TV
 https://boncuktv.seni-elime-gecirirsem.workers.dev/szctv
 
-#EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="Haber",HALK TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="HABER",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="TV100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TV100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100
 https://cdn-eu.tivimivi.com/streams/116/master.m3u8
-#EXTINF:-1 tvg-name="TV100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="Haber",TV 100
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TV100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
-#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber",NTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
 https://cdn-eu.tivimivi.com/streams/128/master.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="Haber",NTV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 
-#EXTINF:-1 tvg-name="CNN TÜRK HD" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CNN TÜRK HD" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 https://cdn-eu.tivimivi.com/streams/114/master.m3u8
-#EXTINF:-1 tvg-name="CNN TURK HD" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="CNN TURK HD" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 
-#EXTINF:-1 tvg-name="GZT TV" tvg-id="GZT.TV.tr" group-title="Haber",GZT TV
-#EXTVLCOPT:network-caching=1000
-#https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-name="GZT TV" tvg-id="GZT.TV.tr" group-title="HABER",GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-name="GZT TV" tvg-id="GZT.TV.tr" group-title="HABER",GZT TV
 https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3u8
 
-#EXTINF:-1 tvg-name="TURKISH PRESS" tvg-id="TURKISH.PRESS.tr" group-title="Haber",TURKISH PRESS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TURKISH PRESS" tvg-id="TURKISH.PRESS.tr" group-title="HABER",TURKISH PRESS
 https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="TELENEWS" tvg-id="TELENEWS.tr" group-title="Haber",TELENEWS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TELENEWS" tvg-id="TELENEWS.tr" group-title="HABER",TELENEWS
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE.1.tr" group-title="Haber",TELE 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE.1.tr" group-title="HABER",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTINF:-1 tvg-name="MK TV" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png" group-title="Haber",MK TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="MK TV" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png" group-title="HABER",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 
-#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="Haber",TGRT HABER
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="Haber",MELTEM TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="HABER",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="24 TV" tvg-id="24.HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="Haber",24 TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="24 TV" tvg-id="24.HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="HABER",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
-#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Haber",TRT HABER
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER
 https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
 
-#EXTINF:-1 tvg-name="AHABER" tvg-id="A.HABER.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A HABER
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="AHABER" tvg-id="A.HABER.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="HABER",A HABER
 https://cdn.tecostream.xyz/A_haber.m3u8
-
-
-
