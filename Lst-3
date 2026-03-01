@@ -1,118 +1,101 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
-########################################################       FILM-DIZI      #################################################################################
-###############################          TABII TV          #######################################################################################
-#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="FILM-DIZI",TABII TV
+########################################################       SALON      #################################################################################
+#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
-#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="FILM-DIZI",TABII TV
+#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
-###############################          REELS TV          #######################################################################################
-#EXTINF:-1 tvg-name="REELS TV" tvg-id="REELS.TV.tr" group-title="FILM-DIZI",REELS TV
+#EXTINF:-1 tvg-name="REELS TV" tvg-id="REELS.TV.tr" group-title="SALON",REELS TV
 https://30a-tv.com/feeds/720p/63.m3u8
 
-###############################          EKOL TV          #######################################################################################
-#EXTINF:-1 tvg-name="EKOL TV" tvg-id="EKOL.TV.tr" group-title="FILM-DIZI",EKOL TV
+#EXTINF:-1 tvg-name="EKOL TV" tvg-id="EKOL.TV.tr" group-title="SALON",EKOL TV
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
-###############################          EPIC DRAMA          ####################################################################################
-#EXTINF:-1 tvg-name="EPIC DRAMA" tvg-id="EPIC.DRAMA.tr" group-title="FILM-DIZI",EPIC DRAMA
+#EXTINF:-1 tvg-name="EPIC DRAMA" tvg-id="EPIC.DRAMA.tr" group-title="SALON",EPIC DRAMA
 https://turkuaz.tecostream.xyz/proxy?url=https://tvheryerde-list.koprulu2.workers.dev/epicdramahd.m3u8
 
-###############################          VIZON TURK          ####################################################################################
-#EXTINF:-1 tvg-name="VIZON TURK" tvg-id="VIZON.TURK.tr" group-title="FILM-DIZI",VIZON TURK
+#EXTINF:-1 tvg-name="VIZON TURK" tvg-id="VIZON.TURK.tr" tvg-logo="https://i.postimg.cc/GptXRGbV/In-Shot-20251120-193412804.png" group-title="SALON",VIZON TURK
 https://tv191.radyotelekom.com.tr:3760/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="YERLI FİLMLER" tvg-id="YERLI.FILMLER.tr" group-title="FILM-DIZI",YERLI FILMLER
+#EXTINF:-1 tvg-name="YERLI FİLMLER" tvg-id="YERLI.FILMLER.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="SALON",YERLI FILMLER
 https://catcast.ismailturret.workers.dev/turkuzplay1.m3u8
 
-#EXTINF:-1 tvg-name="FIL TV" tvg-id="FIL.TV.tr" group-title="FILM-DIZI",FIL TV
+#EXTINF:-1 tvg-name="FIL TV" tvg-id="FIL.TV.tr" tvg-logo="https://i.postimg.cc/grFKGpXv/In-Shot-20251120-180031496.png" group-title="SALON",FIL TV
 https://tv191.radyotelekom.com.tr:3943/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="FILMAX" tvg-id="FILMAX.tr" group-title="FILM-DIZI",FILMAX
+#EXTINF:-1 tvg-name="FILMAX" tvg-id="FILMAX.tr" tvg-logo="https://i.postimg.cc/d35FhGTd/In-Shot-20251120-192810501.png" group-title="SALON",FILMAX
 https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="FILM CLUB TURK" tvg-id="FILM.CLUB.TURK.tr" group-title="FILM-DIZI",FILM CLUB TURK
+#EXTINF:-1 tvg-name="FILM CLUB TURK" tvg-id="FILM.CLUB.TURK.tr" tvg-logo="https://i.postimg.cc/SxBHWPHD/In-Shot-20251102-103812892.png" group-title="SALON",FILM CLUB TURK
 https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="NOVAMAX PREMIER" tvg-id="NOVAMAX.PREMIER.tr" group-title="FILM-DIZI",NOVAMAX PREMIER
+#EXTINF:-1 tvg-name="NOVAMAX PREMIER" tvg-id="NOVAMAX.PREMIER.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="SALON",NOVAMAX PREMIER
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="CINE6 TURK" tvg-id="CINE6.TURK.tr" group-title="FILM-DIZI",CINE6 TURK
+#EXTINF:-1 tvg-name="CINE6 TURK" tvg-id="CINE6.TURK.tr" tvg-logo="https://r.resimlink.com/Q8ePW.png" group-title="SALON",CINE6 TURK
 https://tv191.radyotelekom.com.tr:3614/stream/play.m3u8
 
-#EXTINF:87,CINE6 PREMIER
-#EXTINF:-1 tvg-name="CINE 6 PREMIER" tvg-id="CINE6.PREMIER.tr" group-title="FILM-DIZI",CINE6 PREMIER
+#EXTINF:-1 tvg-name="CINE 6 PREMIER" tvg-id="CINE6.PREMIER.tr" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE6 PREMIER
 https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
 
-###############################          YANSIMA SINEMA          ################################################################################
-#EXTINF:-1 tvg-name="YANSIMA SINEMA" tvg-id="YANSIMA.SINEMA.tr" tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png"  group-title="FILM-DIZI",YANSIMA SINEMA
+#EXTINF:-1 tvg-name="YANSIMA SINEMA" tvg-id="YANSIMA.SINEMA.tr" tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png"  group-title="SALON",YANSIMA SINEMA
 https://streams.uzunmuhalefet.com/stream/53925bf1-48ce-46e1-894b-d0fceb2ffea4.m3u8
-#EXTINF:-1 tvg-name="YANSIMA SINEMA" tvg-id="YANSIMA.SINEMA.tr" tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png"  group-title="FILM-DIZI",YANSIMA SINEMA
+#EXTINF:-1 tvg-name="YANSIMA SINEMA" tvg-id="YANSIMA.SINEMA.tr" tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png"  group-title="SALON",YANSIMA SINEMA
 http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
 
-###############################          KUZEYMAX          #######################################################################################
-#EXTINF:-1 tvg-name="KUZEYMAX" tvg-id="KUZEYMAX.tr" tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png" group-title="FILM-DIZI",KUZEYMAX
+#EXTINF:-1 tvg-name="KUZEYMAX" tvg-id="KUZEYMAX.tr" tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png" group-title="SALON",KUZEYMAX
 http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
 
-###############################          TR11 TV          #######################################################################################
-#EXTINF:-1 tvg-name="TR11 TV" tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="FILM-DIZI",TR11 TV
+#EXTINF:-1 tvg-name="TR11 TV" tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="SALON",TR11 TV
 http://104.238.23.216/d/live/out.m3u8
 
-###############################          PATI TV          #######################################################################################
-#EXTINF:-1 tvg-name="PATI TV" tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="FILM-DIZI",PATI TV
+#EXTINF:-1 tvg-name="PATI TV" tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="SALON",PATI TV
 http://104.238.23.182/d/live/out.m3u8
 
-###############################          CINE 6          #######################################################################################
-#EXTINF:0 tvg-name="CINE 6" tvg-logo="https://i.postimg.cc/FsGzSLQ8/In-Shot-20251120-192640402.png" group-title="FILM-DIZI",CINE 6
+#EXTINF:0 tvg-name="CINE 6" tvg-logo="https://i.postimg.cc/FsGzSLQ8/In-Shot-20251120-192640402.png" group-title="SALON",CINE 6
 https://cinemax6.cinemax6.com:3118/stream/play.m3u8
-#EXTINF:0 tvg-name="CINE 6" tvg-logo="https://i.postimg.cc/FsGzSLQ8/In-Shot-20251120-192640402.png" group-title="FILM-DIZI",CINE 6
+#EXTINF:0 tvg-name="CINE 6" tvg-logo="https://i.postimg.cc/FsGzSLQ8/In-Shot-20251120-192640402.png" group-title="SALON",CINE 6
 https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
 
-###############################          PLAY TV          #######################################################################################
-#EXTINF:-1 tvg-name="PLAY TV" tvg-id="PLAY.TV.tr" group-title="FILM-DIZI",PLAY TV
+#EXTINF:-1 tvg-name="PLAY TV" tvg-id="PLAY.TV.tr" group-title="SALON",PLAY TV
 https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
-#EXTINF:-1 tvg-name="PLAY TV" tvg-id="PLAY.TV.tr" group-title="FILM-DIZI",PLAY TV
+#EXTINF:-1 tvg-name="PLAY TV" tvg-id="PLAY.TV.tr" group-title="SALON",PLAY TV
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
-###############################          TELEON          #######################################################################################
-#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg"  group-title="FILM-DIZI",TELEON
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg"  group-title="SALON",TELEON
 https://tecostream.xyz/teleonat.php?stream.m3u8
-#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg"  group-title="FILM-DIZI",TELEON
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://teleontv.at.ua/988.jpeg"  group-title="SALON",TELEON
 https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
 
-###############################          BONCUK TV          ######################################################################################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="FILM-DIZI",BONCUK TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="SALON",BONCUK TV
 https://atakan1983.dev.tc/BoncukTV/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="FILM-DIZI",BONCUK TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="SALON",BONCUK TV
 http://104.238.23.221/BoncukTV/live/index.m3u8
 
-###############################          AFROTURK TV          #####################################################################################
-#EXTINF:-1 tvg-name="AFROTURK TV" tvg-id="AFROTURK.TV.tr" group-title="FILM-DIZI",AFROTURK TV
+#EXTINF:-1 tvg-name="AFROTURK TV" tvg-id="AFROTURK.TV.tr" group-title="SALON",AFROTURK TV
 https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8
 
-###############################          HTV          #######################################################################################
-#EXTINF:-1 tvg-name="HTV" tvg-id="HTV.tr" group-title="FILM-DIZI",HTV
+#EXTINF:-1 tvg-name="HTV" tvg-id="HTV.tr" group-title="SALON",HTV
 https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 
-###############################          SALON          #######################################################################################
-#EXTINF:-1 tvg-name="SALON HABABAM SINIFI" tvg-id="SALON.HABABAM.SINIFI.tr" group-title="FILM-DIZI",SALON HABABAM SINIFI
+#EXTINF:-1 tvg-name="SALON HABABAM SINIFI" tvg-id="SALON.HABABAM.SINIFI.tr" group-title="SALON",SALON HABABAM SINIFI
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49292
 
-#EXTINF:-1 tvg-name="SALON ORUMCEK ADAM" tvg-id="SALON.ORUMCEK.ADAM.tr" group-title="FILM-DIZI",SALON ORUMCEK ADAM
+#EXTINF:-1 tvg-name="SALON ORUMCEK ADAM" tvg-id="SALON.ORUMCEK.ADAM.tr" group-title="SALON",SALON ORUMCEK ADAM
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49298
 
-#EXTINF:-1 tvg-name="SALON 007" tvg-id="SALON.007.tr" group-title="FILM-DIZI",SALON 007
+#EXTINF:-1 tvg-name="SALON 007" tvg-id="SALON.007.tr" group-title="SALON",SALON 007
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49299
 
-#EXTINF:-1 tvg-name="SALON ANIMASYON" tvg-id="SALON.ANIMASYON.tr" group-title="FILM-DIZI",SALON ANIMASYON
+#EXTINF:-1 tvg-name="SALON ANIMASYON" tvg-id="SALON.ANIMASYON.tr" group-title="SALON",SALON ANIMASYON
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49300
 
-#EXTINF:-1 tvg-name="SALON Jackie Chan" tvg-id="SALON.Jackie.Chan.tr" group-title="FILM-DIZI",SALON Jackie Chan
+#EXTINF:-1 tvg-name="SALON Jackie Chan" tvg-id="SALON.Jackie.Chan.tr" group-title="SALON",SALON Jackie Chan
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49301
 
-#EXTINF:-1 tvg-name="SALON HIZLI ve OFKELI" tvg-id="SALON.HIZLI.ve.OFKELI.tr" group-title="FILM-DIZI",SALON HIZLI ve OFKELI
+#EXTINF:-1 tvg-name="SALON HIZLI ve OFKELI" tvg-id="SALON.HIZLI.ve.OFKELI.tr" group-title="SALON",SALON HIZLI ve OFKELI
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49309
 
-#EXTINF:-1 tvg-name="SALON X-Men" tvg-id="SALON.X-Men.tr" group-title="FILM-DIZI",SALON X-Men
+#EXTINF:-1 tvg-name="SALON X-Men" tvg-id="SALON.X-Men.tr" group-title="SALON",SALON X-Men
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49310
