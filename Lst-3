@@ -33,10 +33,15 @@ https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
 #EXTINF:-1 tvg-name="NOVAMAX PREMIER" tvg-id="NOVAMAX.PREMIER.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="SALON",NOVAMAX PREMIER
 https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="CINE6 TURK" tvg-id="CINE6.TURK.tr" tvg-logo="https://i.postimg.cc/FsGzSLQ8/In-Shot-20251120-192640402.png" group-title="SALON",CINE6 TURK
+#EXTINF:-1 tvg-name="CINE6" tvg-id="CINE6.tr" tvg-logo="https://i.postimg.cc/FsGzSLQ8/In-Shot-20251120-192640402.png" group-title="SALON",CINE6
 https://tv191.radyotelekom.com.tr:3614/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="CINE 6 PREMIER" tvg-id="CINE6.PREMIER.tr" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE6 PREMIER
+#EXTINF:-1 tvg-name="CINE6 PREMIER" tvg-id="CINE6.PREMIER.tr" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE6 PREMIER
+https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
+
+#EXTINF:0 tvg-name="CINE6" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE6
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
+#EXTINF:0 tvg-name="CINE6" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE6
 https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
 
 #EXTINF:-1 tvg-name="YANSIMA SINEMA" tvg-id="YANSIMA.SINEMA.tr" tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png"  group-title="SALON",YANSIMA SINEMA
@@ -52,11 +57,6 @@ http://104.238.23.216/d/live/out.m3u8
 
 #EXTINF:-1 tvg-name="PATI TV" tvg-logo="https://i.postimg.cc/xdYTgWHz/In-Shot-20251019-124236237.png" group-title="SALON",PATI TV
 http://104.238.23.182/d/live/out.m3u8
-
-#EXTINF:0 tvg-name="CINE 6" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE 6
-https://cinemax6.cinemax6.com:3118/stream/play.m3u8
-#EXTINF:0 tvg-name="CINE 6" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE 6
-https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
 
 #EXTINF:-1 tvg-name="PLAY TV" tvg-id="PLAY.TV.tr" group-title="SALON",PLAY TV
 https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
