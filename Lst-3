@@ -99,3 +99,599 @@ https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
 https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:0 tvg-name="CINE6" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE6
 https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
+###################################################------------------------------#############################################################################
+#EXTINF:0,|TR| EPIC DRAMA ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314500&token=DeaTHLesS
+#EXTINF:0,|TR|  FX ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=196847&token=DeaTHLesS
+#EXTINF:0,|TR|   FX ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151820&token=DeaTHLesS
+#EXTINF:0,|TR|  FX ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=10726&token=DeaTHLesS
+#EXTINF:0,|TR|  FOX CRIME ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151782&token=DeaTHLesS
+#EXTINF:0,|TR|  FOX CRIME ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=196846&token=DeaTHLesS
+#EXTINF:0,|TR|  FILMBOX ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151780&token=DeaTHLesS
+#EXTINF:0,|TR|  FILMBOX ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=196822&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING VIZYON 1
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314942&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING VIZYON 2
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314941&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING VIZYON 3
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314940&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING CINEMAX 1
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314939&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING CINEMAX 2
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314938&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING CINEMAX 3
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314937&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING CINEMAX 4
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314936&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING CINEMAX 5
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314935&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING CINEMAX 6
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314934&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING TURK
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314932&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING WESTERN
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314933&token=DeaTHLesS
+#EXTINF:0,|TR| LIVING KEMAL SUNAL
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314931&token=DeaTHLesS
+#EXTINF:0,|TR| YESILCAM SINEMA
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151819&token=DeaTHLesS
+#EXTINF:0,|TR| DINAMIK SALON 1
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=314928&token=DeaTHLesS
+#EXTINF:0,|TR| BEiN BOX OFFİCE 1 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=170520&token=DeaTHLesS
+#EXTINF:0,|TR| BEIN BOX OFFICE 1
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=10724&token=DeaTHLesS
+#EXTINF:0,|TR| BEiN BOX OFFİCE 2 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=170521&token=DeaTHLesS
+#EXTINF:0,|TR| BEiN BOX OFFİCE 3 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=170522&token=DeaTHLesS
+#EXTINF:0,|TR|  ANIMATION 1 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151991&token=DeaTHLesS
+#EXTINF:0,|TR|  ANIMATION  2 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151992&token=DeaTHLesS
+#EXTINF:0,|TR| KEMAL SUNAL TV
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151781&token=DeaTHLesS
+#EXTINF:0,|TR|   TOM &amp; JERRY
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151997&token=DeaTHLesS
+#EXTINF:0,|TR|  DİZİ PREMIUM ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=196842&token=DeaTHLesS
+#EXTINF:0,|TR|  DİZİSMART MAX ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=196843&token=DeaTHLesS
+#EXTINF:0,|TR| DİZİ SMART PREMIUM ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151776&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX 007 JAMES BOND
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201801&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX 13.CUMA
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201819&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX ALACAKARANLIK EFSANESI
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201805&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX ALIEN VS PREDATOR
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201826&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX BATMAN TV
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201808&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX BRUCE LEE TV
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201798&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX CILGIN DERSHANE
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201829&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX HARRY POTTER
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201802&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX HOBBIT TV
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201807&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX KARANLIKLAR ULKESI
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201830&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX KARAYIP KORSANLARI
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201811&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX MAYMUNLAR CEHENEMI
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201825&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX MUMYA
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201821&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX ORUMCEK ADAM
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201810&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX POLIS AKEDEMISI
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201815&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX RAMBO
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201827&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX RECEP IVEDIK
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201804&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX ROCKY BALBOA
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201803&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX SON DURAK
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201814&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX STAR TREK
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201824&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX SUPERMAN TV
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201809&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX TERMINATOR TV
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201817&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX TESTERE SAW
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201816&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX THE BOURNE
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201822&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX THE MATRİX
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201823&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX TRANSFORMERS
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201820&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX X-MEN TV
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201818&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX ZOR OLUM
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201812&token=DeaTHLesS
+#EXTINF:0,|TR| DIZIAX ÖLÜMCÜL DENEY
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=201806&token=DeaTHLesS
+#EXTINF:0,|TR|    MAX Aksiyon ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151783&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX 007 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151793&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Aksiyon 2 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151785&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX GOLD ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151791&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Hint Filimleri
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151794&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Orjinal ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151795&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX PLUS ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151792&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Premier ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151784&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX STAR WARS ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151796&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX TURK ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151790&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Vizyon 2 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151787&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Vizyon 3 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151788&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Vizyon 4 ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151789&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Vizyon ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151786&token=DeaTHLesS
+#EXTINF:0,|TR|   MAX Western ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151797&token=DeaTHLesS
+#########################################################################################################################################################
+#EXTINF:0,TR|  ARENABOX ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878940&token=DeaTHLesS
+#EXTINF:0,TR|  ARENA BOX ANIMASYON HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878938&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX BILIM KURGU HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878943&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878945&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX DRAM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878941&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX FANTASTIC HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878942&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX GERILIM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878944&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX KORKU HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878946&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX MACERA HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878947&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX VIZYON HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878948&token=DeaTHLesS
+#EXTINF:0,TR|  ARENABOX YERLI HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878939&token=DeaTHLesS
+#EXTINF:0,TR|  ARENA BOX YESILCAM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878937&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR 10NUMARA
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878889&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR AKSIYON
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878890&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR ANIMASYON
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878891&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR BILM KURGU
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878882&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR KOMEDI
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878883&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR KORKU
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878884&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR KOVBOY
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878887&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR MACERA
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878885&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR POLISIYE
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878886&token=DeaTHLesS
+#EXTINF:0,TR|   CINESTAR YERLI
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878888&token=DeaTHLesS
+#EXTINF:0,TR|  CÜNEYT ARKIN FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878892&token=DeaTHLesS
+#EXTINF:0,TR|  DIZISMART MAX FHD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878876&token=DeaTHLesS
+#EXTINF:0,TR|  DIZISMART PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878877&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878929&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX BILIM KURGU HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878930&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878935&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX DRAM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878936&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX FANTASTIC HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878931&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX GERILIM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878927&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX KORKU HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878926&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX MACERA HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878932&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX ROMANTIC HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878934&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX SAVAS HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878933&token=DeaTHLesS
+#EXTINF:0,TR|  DREAMBOX YERLI HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878928&token=DeaTHLesS
+#EXTINF:0,TR|  ENO ANIMASYON HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878958&token=DeaTHLesS
+#EXTINF:0,TR|  ENO TURK HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878959&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878961&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878962&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878963&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 4 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878964&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 5 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878965&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 6 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878966&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 7 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878967&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 8 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878968&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 9 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878969&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 10 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878970&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 11 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878971&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 12 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878972&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 14 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878973&token=DeaTHLesS
+#EXTINF:0,TR|  ENO VIZYON 15 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878974&token=DeaTHLesS
+#EXTINF:0,TR|  ENO WESTERN HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878960&token=DeaTHLesS
+#EXTINF:0,TR|  EPIC DRAMA
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878878&token=DeaTHLesS
+#EXTINF:0,TR|  FERDI TAYFUR FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878899&token=DeaTHLesS
+#EXTINF:0,TR|  FX HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878879&token=DeaTHLesS
+#EXTINF:0,TR|  HABABAM SINIFI FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878894&token=DeaTHLesS
+#EXTINF:0,TR|  IBRAHIM TATLISES FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878896&token=DeaTHLesS
+#EXTINF:0,TR|  KADIR INANIR FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878893&token=DeaTHLesS
+#EXTINF:0,TR|  KARTAL TIBET FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878903&token=DeaTHLesS
+#EXTINF:0,TR|  KÜCÜK EMRAH FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878906&token=DeaTHLesS
+#EXTINF:0,TR|  MAX HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878881&token=DeaTHLesS
+#EXTINF:0,TR|  MOVIESMART CLASSIC HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878875&token=DeaTHLesS
+#EXTINF:0,TR|  MOVIESMART TURK HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878874&token=DeaTHLesS
+#EXTINF:0,TR|  MÜJDE AR FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878898&token=DeaTHLesS
+#EXTINF:0,TR|  MÜSLÜM GÜRSES FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878900&token=DeaTHLesS
+#EXTINF:0,TR|  ORHAN GENCEBAY FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878897&token=DeaTHLesS
+#EXTINF:0,TR|  SADRI ALISIK FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878901&token=DeaTHLesS
+#EXTINF:0,TR|  SENER SEN FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878895&token=DeaTHLesS
+#EXTINF:0,TR|  TARIK AKAN FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878902&token=DeaTHLesS
+#EXTINF:0,TR|  ----- SINEMA 24 / 7 -----
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878880&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878840&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- EFSANE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878975&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- EFSANE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878976&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- EFSANE 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878977&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- EFSANE 4 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878978&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- GOLD HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878842&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- HOBBIT HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878982&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- JACKIE CHAN HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878979&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- JAMES BOND HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878980&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- KADIR INANIR HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878986&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- KEMAL SUNAL
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878845&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- KEMAL SUNAL 1
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878846&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- KEMAL SUNAL 2
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878847&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- KOMEDI HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878843&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- LOCA FHD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878844&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- ORUMCEK ADAM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878983&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878841&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- RECEP IVEDIK HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878984&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- SINEMA TURK HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878839&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- TOM CRUISE HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878981&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- WESTERN HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878838&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- YESILCAM 1
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878848&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- YESILCAM 2
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878849&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- YESILCAM 3
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878850&token=DeaTHLesS
+#EXTINF:0,TR| CINEMAX- ZEKI VE METIN HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878985&token=DeaTHLesS
+#EXTINF:0,TR|  DIZI 24 - 7 CHICAGO P.D. HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878991&token=DeaTHLesS
+#EXTINF:0,TR|  DIZI 24 - 7 KONUSANLAR HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878995&token=DeaTHLesS
+#EXTINF:0,TR|  DIZI 24 - 7 TESKILAT HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878988&token=DeaTHLesS
+#EXTINF:0,TR|  DIZI 24 - 7 TOLGSHOW FILTRESIZ HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878993&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX 4K ULTRA HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878912&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878909&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX BILIM KURGU HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878918&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX DRAM HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878913&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX FANTASTIC HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878914&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX HORRORBOX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878921&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX HORRORBOX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878922&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX HORRORBOX 3 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878923&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX HORRORBOX 4 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878924&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX HORRORBOX 5 HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878925&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX KORKU HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878910&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX LOCA HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878908&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX MACERA HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878915&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX ORJİNAL HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878920&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX UZAKDOGU HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878917&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX VIZYON HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878916&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX WESTERN HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878911&token=DeaTHLesS
+#EXTINF:0,TR|  TURKBOX YERLİ HD
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878919&token=DeaTHLesS
+#EXTINF:0,TR|  TÜRKAN SORAY FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878904&token=DeaTHLesS
+#EXTINF:0,TR|  YILMAZ GÜNEY FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878905&token=DeaTHLesS
+#EXTINF:0,TR|  ZEKI METIN FILM TV
+#EXTVLCOPT:network-caching=1000
+http://ikidilimpeyazpeynir.duckdns.org/index.php?id=878907&token=DeaTHLesS
