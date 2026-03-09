@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
-
 #EXTINF:298,KANAL D
 http://tv.dsmart-go.workers.dev/?ID=https://www.kanald.com.tr/canli-yayin
 #EXTINF:0,KANAL D
@@ -190,37 +189,37 @@ http://uro-levene-1012.mywire.org/index.php?id=10774&token=DeaTHLesS
 http://uro-levene-1012.mywire.org/index.php?id=196791&token=DeaTHLesS
 #EXTINF:0,TV 8
 http://uro-levene-1012.mywire.org/index.php?id=170661&token=DeaTHLesS
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 http://uro-levene-1012.mywire.org/index.php?id=10773&token=DeaTHLesS
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv85.m3u8
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 http://65.108.239.207/tv85/index.m3u8
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 http://uro-levene-1012.mywire.org/index.php?id=170662&token=DeaTHLesS
-#EXTINF:0,5 HD" tvg-id="TV8 - 5.HD.tr" group-title="ULUSAL",TV 8.5
+#EXTINF:0,TV 8.5
 http://uro-levene-1012.mywire.org/index.php?id=196792&token=DeaTHLesS
 #EXTINF:0,TRT 1
 http://uro-levene-1012.mywire.org/index.php?id=196784&token=DeaTHLesS
@@ -520,27 +519,27 @@ http://162.212.179.33:80/gin-trn09/gt-sinevizyon-3/playlist.m3u8
 #EXTINF:0,FX HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
-#EXTINF:86399,TRT tabii tv
+#EXTINF:86399,TABII TV
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="REELS TV" tvg-id="REELS.TV.tr" group-title="SALON",REELS TV
+#EXTINF:0,REELS TV
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:180,tictok tv
+#EXTINF:180,TICTOK TV
 #EXTVLCOPT:network-caching=1000
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:0,FOX CRIME ᵁᴴᴰ
+#EXTINF:0,FOX CRIME
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=170682&token=DeaTHLesS
-#EXTINF:0,EPIC DRAMA ᴴᴰ
+#EXTINF:0,EPIC DRAMA
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=314500&token=DeaTHLesS
-#EXTINF:0,FX ᴴᴰ
+#EXTINF:0,FX
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=196847&token=DeaTHLesS
-#EXTINF:0,FX ᴴᴰ
+#EXTINF:0,FX
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151820&token=DeaTHLesS
-#EXTINF:0,FX ᴴᴰ
+#EXTINF:0,FX
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=10726&token=DeaTHLesS
 #EXTINF:0,LIVING CINEMAX 1
@@ -564,10 +563,10 @@ http://uro-levene-1012.mywire.org/index.php?id=314934&token=DeaTHLesS
 #EXTINF:0,LIVING TURK
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=314932&token=DeaTHLesS
-#EXTINF:0,ANIMATION 1 ᴴᴰ
+#EXTINF:0,ANIMATION 1
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151991&token=DeaTHLesS
-#EXTINF:0,ANIMATION  2 ᴴᴰ
+#EXTINF:0,ANIMATION  2
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151992&token=DeaTHLesS
 #EXTINF:0,TOM & JERRY
@@ -602,49 +601,49 @@ http://uro-levene-1012.mywire.org/index.php?id=201809&token=DeaTHLesS
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=201822&token=DeaTHLesS
 
-#EXTINF:0,MAX Aksiyon ᴴᴰ
+#EXTINF:0,MAX AKSIYON
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151783&token=DeaTHLesS
-#EXTINF:0,MAX 007 ᴴᴰ
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=151793&token=DeaTHLesS
-#EXTINF:0,MAX Aksiyon 2 ᴴᴰ
+#EXTINF:0,MAX AKSIYON 2
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151785&token=DeaTHLesS
-#EXTINF:0,MAX GOLD ᴴᴰ
+#EXTINF:0,MAX 007
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151793&token=DeaTHLesS
+#EXTINF:0,MAX GOLD
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151791&token=DeaTHLesS
-#EXTINF:0,MAX Hint Filimleri
+#EXTINF:0,MAX HINT FILIMLERI
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151794&token=DeaTHLesS
-#EXTINF:0,MAX Orjinal ᴴᴰ
+#EXTINF:0,MAX ORJINAL
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151795&token=DeaTHLesS
-#EXTINF:0,MAX PLUS ᴴᴰ
+#EXTINF:0,MAX PLUS
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151792&token=DeaTHLesS
-#EXTINF:0,MAX Premier ᴴᴰ
+#EXTINF:0,MAX PREMIER
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151784&token=DeaTHLesS
-#EXTINF:0,MAX STAR WARS ᴴᴰ
+#EXTINF:0,MAX STAR WARS
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151796&token=DeaTHLesS
-#EXTINF:0,MAX TURK ᴴᴰ
+#EXTINF:0,MAX TURK
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151790&token=DeaTHLesS
-#EXTINF:0,MAX Vizyon 2 ᴴᴰ
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=151787&token=DeaTHLesS
-#EXTINF:0,MAX Vizyon 3 ᴴᴰ
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=151788&token=DeaTHLesS
-#EXTINF:0,MAX Vizyon 4 ᴴᴰ
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=151789&token=DeaTHLesS
-#EXTINF:0,MAX Vizyon ᴴᴰ
+#EXTINF:0,MAX VIZYON
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151786&token=DeaTHLesS
-#EXTINF:0,MAX Western ᴴᴰ
+#EXTINF:0,MAX VIZYON 2
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151787&token=DeaTHLesS
+#EXTINF:0,MAX VIZYON 3
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151788&token=DeaTHLesS
+#EXTINF:0,MAX VIZYON 4
+#EXTVLCOPT:network-caching=1000
+http://uro-levene-1012.mywire.org/index.php?id=151789&token=DeaTHLesS
+#EXTINF:0,MAX WESTERN
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=151797&token=DeaTHLesS
 #EXTINF:0,LIVING SHOW 1
