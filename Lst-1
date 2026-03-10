@@ -1,695 +1,600 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
-################################################         BELGESEL       ##############################################################################
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="BELGESEL",TLC
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="BELGESEL",TLC
-https://cdn-eu.tivimivi.com/streams/115/master.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="BELGESEL",TLC
-http://tv.glturk.workers.dev/?ID=TLC_HD
-#EXTINF:0, group-title="BELGESEL",TLC
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
-#EXTINF:0, group-title="BELGESEL",TLC
-http://uro-levene-1012.mywire.org/index.php?id=10776&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",TLC
-http://uro-levene-1012.mywire.org/index.php?id=10730&token=DeaTHLesS
+###############################          KANAL D          #######################################################################################
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
 
-#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
-http://tv.glturk.workers.dev/?ID=DMax_HD
-#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961
-#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX.HD.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
-https://cdn-eu.tivimivi.com/streams/119/master.m3u8
-#EXTINF:0, group-title="BELGESEL",DMAX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48961
-#EXTINF:0, group-title="BELGESEL",DMAX
-http://uro-levene-1012.mywire.org/index.php?id=170683&token=DeaTHLesS
+###############################          ATV          ###########################################################################################
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
 
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
-#EXTINF:-1 tvg-name="TRT BELGESEL HD" tvg-id="TRT.BELGESEL.HD.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
-https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-http://uro-levene-1012.mywire.org/index.php?id=196807&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-http://uro-levene-1012.mywire.org/index.php?id=10788&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-http://uro-levene-1012.mywire.org/index.php?id=170685&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:0, group-title="BELGESEL",TRT BELGESEL
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+###############################          STAR TV          #######################################################################################
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL",STAR TV
+https://tv.cdn-vizi.workers.dev/?ID=5
 
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
-http://uro-levene-1012.mywire.org/index.php?id=314485&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
-http://65.108.239.207/bbc/index.m3u8
-#EXTINF:0, group-title="BELGESEL",BBC EARTH
-https://mss.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:0, group-title="BELGESEL",BBC EARTH
-http://65.108.239.207/bbc/index.m3u8
-#EXTINF:0, group-title="BELGESEL",BBC EARTH
-http://65.108.239.207/bbc/index.m3u8
-#EXTINF:0, group-title="BELGESEL",BBC EARTH
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937
-#EXTINF:0, group-title="BELGESEL",BBC EARTH
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937
+###############################          SHOW TV          #######################################################################################
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL",SHOW TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
 
-#EXTINF:-1 tvg-name="IZ" tvg-id="IZ.tr" group-title="BELGESEL",IZ HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49427
-#EXTINF:0, group-title="BELGESEL",IZ HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49427
-#EXTINF:0, group-title="BELGESEL",IZ HD
-http://uro-levene-1012.mywire.org/index.php?id=314487&token=DeaTHLesS
+###############################          NOW TV          #######################################################################################
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL",NOW TV
+https://tv.cdn-vizi.workers.dev/?ID=4
 
-#EXTINF:-1 tvg-name="GURME" tvg-id="GURME.tr" group-title="BELGESEL",GURME HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49428
-#EXTINF:0, group-title="BELGESEL",GURME HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49428
-#EXTINF:0, group-title="BELGESEL",GURME HD
-http://uro-levene-1012.mywire.org/index.php?id=314486&token=DeaTHLesS
+###############################          TV 8          #########################################################################################
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL",TV 8
+https://tv.cdn-vizi.workers.dev/?ID=8
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="BELGESEL",DISCOVERY CHANNEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48952
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="BELGESEL",DISCOVERY CHANNEL
-http://65.108.239.207:80/discovery/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-id="DISCOVERY.CHANNEL.HD.tr" group-title="BELGESEL",DISCOVERY CHANNEL
-http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
-#EXTINF:306, group-title="BELGESEL",DISCOVERY CHANNEL
-http://65.108.239.207/discovery/index.m3u8
-#EXTINF:0, group-title="BELGESEL",DISCOVERY CHANNEL
-http://uro-levene-1012.mywire.org/index.php?id=196839&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",DISCOVERY CHANNEL
-http://uro-levene-1012.mywire.org/index.php?id=10740&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",DISCOVERY CHANNEL
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48952
+###############################          TV 8.5          #######################################################################################
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="ULUSAL",TV 8.5
+http://149.13.0.66:4002/tv85hd
 
-#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="DISCOVERY.ID.HD.tr" group-title="BELGESEL",DISCOVERY ID
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953
-#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="DISCOVERY.ID.HD.tr" group-title="BELGESEL",DISCOVERY ID
-http://65.108.239.207:80/discs/index.m3u8
+###############################          TRT 1          #######################################################################################
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
+http://149.13.0.66:4000/trt1hd
 
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48954
-#EXTINF:0, group-title="BELGESEL",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10744&token=DeaTHLesS
-#EXTINF:0 group-title="BELGESEL",,NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48954
-#EXTINF:0 group-title="BELGESEL",,NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196851&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170682&token=DeaTHLesS
+###############################          TRT 2          #######################################################################################
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:0, group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48955
-#EXTINF:0, group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10742&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196852&token=DeaTHLesS
+###############################          TEVE 2          #######################################################################################
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="ULUSAL",TEVE 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 
-#EXTINF:0, group-title="BELGESEL",VIASAT HISTORY
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49426
-#EXTINF:0, group-title="BELGESEL",VIASAT HISTORY
-http://uro-levene-1012.mywire.org/index.php?id=170684&token=DeaTHLesS
-#EXTINF:100, group-title="BELGESEL",VIASAT HISTORY
-https://mss.ayakkabiparti.lol/viasathistory/index.m3u8
-#EXTINF:0, group-title="BELGESEL",VIASAT HISTORY
-http://uro-levene-1012.mywire.org/index.php?id=196835&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",VIASAT HISTORY
-http://uro-levene-1012.mywire.org/index.php?id=10735&token=DeaTHLesS
+###############################          BEYAZ TV          #####################################################################################
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ.TV.HD.tr" group-title="ULUSAL",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:0, group-title="BELGESEL",VIASAT EXPLORE
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314484&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",VIASAT EXPLORE
-http://uro-levene-1012.mywire.org/index.php?id=10736&token=DeaTHLesS
-#EXTINF:0, group-title="BELGESEL",VIASAT EXPLORE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49425
+###############################          360 TV          #######################################################################################
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360.HD.tr" group-title="ULUSAL",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:0, group-title="BELGESEL",DA VINCI
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49418
-#EXTINF:0, group-title="BELGESEL",DA VINCI
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196819&token=DeaTHLesS
+###############################          TV 4          #########################################################################################
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="ULUSAL",TV 4
+#EXTVLCOPT:network-caching=3000
+https://tv.cdn-vizi.workers.dev/?ID=72
 
-#EXTINF:0, group-title="BELGESEL",LIVING BELGESEL
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314482&token=DeaTHLesS
+########################################          ULUSAL (YEDEK)          ######################################################################################
+###############################          KANAL D          #######################################################################################
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+https://cdn-eu.tivimivi.com/streams/113/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+http://slayerteam.in.rs:80/play/live.php?mac=A0:BB:3E:05:1D:79&stream=912478&extension=m3u8&live=true
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+https://cdn-eu.tivimivi.com/streams/113/master.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+https://cdn-eu.tivimivi.com/streams/113/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL.D.HD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL YEDEK",KANAL D
+https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
+#EXTINF:298, group-title="ULUSAL YEDEK",KANAL D
+http://116.202.238.88/KANALD_TR/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+http://162.212.179.33:80/gin-36bay4/gt-kanald-2/tracks-v1a1/rewind-128800.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+http://116.202.238.88/KANALD_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+http://tv.dsmart-go.workers.dev/?ID=https://www.kanald.com.tr/canli-yayin
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+http://uro-levene-1012.mywire.org/index.php?id=10762&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+http://uro-levene-1012.mywire.org/index.php?id=196789&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",KANAL D
+http://uro-levene-1012.mywire.org/index.php?id=170658&token=DeaTHLesS
 
-#EXTINF:-1 tvg-name="BOX BELGESEL 1" tvg-id="BOX.BELGESEL.1.tr" group-title="BELGESEL",BOX BELGESEL 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49423
-#EXTINF:-1 tvg-name="BOX BELGESEL 2" tvg-id="BOX.BELGESEL.2.tr" group-title="BELGESEL",BOX BELGESEL 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49424
+###############################          ATV          #######################################################################################
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+https://tv.cdn-vizi.workers.dev/?ID=2
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+https://cdn-eu.tivimivi.com/streams/121/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5990.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+https://cdn-eu.tivimivi.com/streams/121/master.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL YEDEK",ATV
+https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://162.212.179.33:80/gin-trn09/gin-atv-tv/tracks-v1a1/rewind-128880.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://162.212.179.33:80/gin-36bay4/gt-atv-tv3/tracks-v1a1/rewind-48880.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48847
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://uro-levene-1012.mywire.org/index.php?id=10792&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://uro-levene-1012.mywire.org/index.php?id=196786&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",ATV
+http://uro-levene-1012.mywire.org/index.php?id=170656&token=DeaTHLesS
 
-#EXTINF:0, group-title="BELGESEL",NATURE ESCAPE
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48956
-#EXTINF:0, group-title="BELGESEL",NATURE ESCAPE
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196853&token=DeaTHLesS
+###############################          STAR TV          #######################################################################################
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL YEDEK",STAR TV
+http://tv.glturk.workers.dev/?ID=StarTV_HD
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL YEDEK",STAR TV
+https://cdn-eu.tivimivi.com/streams/118/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL YEDEK",STAR TV
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL YEDEK",STAR TV
+https://cdn-eu.tivimivi.com/streams/118/master.m3u8
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL YEDEK",STAR TV
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL YEDEK",STAR TV
+https://cdn-eu.tivimivi.com/streams/118/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR.TV.HD.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL YEDEK",STAR TV
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://162.212.179.33:80/gin-trn09/gin-startv/tracks-v1a1/rewind-128800.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://162.212.179.33:80/gin-36bay4/gt-startvback2/tracks-v1a1/rewind-128880.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+https://trn03.tulix.tv/gt-startv/playlist.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://116.202.238.88/STARTV_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/star.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+https://dygvideo.dygdigital.com/live/hls/startv4puhu
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://uro-levene-1012.mywire.org/index.php?id=10725&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://uro-levene-1012.mywire.org/index.php?id=196788&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",STAR TV
+http://uro-levene-1012.mywire.org/index.php?id=170659&token=DeaTHLesS
 
-#EXTINF:0, group-title="BELGESEL",FASHION TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48957
-#EXTINF:0, group-title="BELGESEL",FASHION TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48960
-#EXTINF:0, group-title="BELGESEL",FASHION TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196855&token=DeaTHLesS
+###############################          SHOW TV          #######################################################################################
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+http://tv.glturk.workers.dev/?ID=ShowTV_HD
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+https://cdn-eu.tivimivi.com/streams/109/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5989.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+https://cdn-eu.tivimivi.com/streams/109/master.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+https://cdn-eu.tivimivi.com/streams/109/1920x1080/index.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL YEDEK",SHOW TV
+https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://tv.dsmart-go.workers.dev/?ID=https://www.showtv.com.tr/canli-yayin
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7ggzjgei1u7i&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://162.212.179.33:80/gin-trn09/gin-showtv/tracks-v1a1/rewind-168800.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://162.212.179.33:80/gin-36bay4/gt-show-tv3/tracks-v1a1/rewind-168880.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://116.202.238.88/SHOWTV_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7tyndb8fpze1&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3&
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://116.202.238.88/SHOWTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://uro-levene-1012.mywire.org/index.php?id=196787&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://uro-levene-1012.mywire.org/index.php?id=10794&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",SHOW TV
+http://uro-levene-1012.mywire.org/index.php?id=170657&token=DeaTHLesS
 
-#EXTINF:100, group-title="BELGESEL",TARIH TV
-https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
-#EXTINF:100, group-title="BELGESEL",TARIH TV
-http://65.108.239.207/tarihtv/index.m3u8
-#EXTINF:100, group-title="BELGESEL",TARIH TV
-http://65.108.239.207/tarihtv/index.m3u8
+###############################          NOW TV          #######################################################################################
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+http://tv.glturk.workers.dev/?ID=Now_HD
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+#EXTVLCOPT:network-caching=1000
+https://a.abdcev.workers.dev/live/index.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+#EXTVLCOPT:network-caching=1000
+http://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5986.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-eu.tivimivi.com/streams/108/master.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+#EXTVLCOPT:network-caching=1000
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+#EXTVLCOPT:network-caching=1000
+https://dogus.tecostream.xyz/now.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+#EXTVLCOPT:network-caching=1000
+https://a.abdcev.workers.dev/live/index.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL YEDEK",NOW TV
+https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://tv.dsmart-go.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://162.212.179.33:80/gin-36bay4/gt-turkfoxtv-3/tracks-v1a1/rewind-128880.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://87.246.54.249:8080/NOW/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://uro-levene-1012.mywire.org/index.php?id=10732&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://uro-levene-1012.mywire.org/index.php?id=196790&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",NOW TV
+http://uro-levene-1012.mywire.org/index.php?id=170660&token=DeaTHLesS
 
-#EXTINF:0, group-title="BELGESEL",LOVE NATURE
+###############################          TV 8          #######################################################################################
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL YEDEK",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL YEDEK",TV 8
 #EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196848&token=DeaTHLesS
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL YEDEK",TV 8
+#EXTVLCOPT:network-caching=1000
+http://149.13.0.66:4002/tv8hd
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL YEDEK",TV 8
+#EXTVLCOPT:network-caching=1000
+https://cdn-eu.tivimivi.com/streams/107/master.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL YEDEK",TV 8
+#EXTVLCOPT:network-caching=1000
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL YEDEK",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL YEDEK",TV 8
+https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://89.187.191.41/TV8-HD-TR/video.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://162.212.179.33:80/gin-trn09/gin-tv8-tv/tracks-v1a1/rewind-128880.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://116.202.238.88/TV8_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://87.246.54.249:8080/TV8/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48860
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://uro-levene-1012.mywire.org/index.php?id=10774&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://uro-levene-1012.mywire.org/index.php?id=196791&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8
+http://uro-levene-1012.mywire.org/index.php?id=170661&token=DeaTHLesS
 
-#EXTINF:0, group-title="BELGESEL",YABAN TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10768&token=DeaTHLesS
+###############################          TV 8.5          #######################################################################################
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="ULUSAL YEDEK",TV 8.5
+https://tv.cdn-vizi.workers.dev/?ID=28
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="ULUSAL YEDEK",TV 8.5
+http://149.13.0.66:4002/tv85hd
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="ULUSAL YEDEK",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="ULUSAL YEDEK",TV 8.5
+#http://149.13.0.66:4002/tv85hd
+#EXTINF:-1 tvg-name="TV8,5 HD" tvg-id="TV8,5.HD.tr" group-title="ULUSAL YEDEK",TV 8.5
+https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+http://uro-levene-1012.mywire.org/index.php?id=10773&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv85.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+http://65.108.239.207/tv85/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+http://uro-levene-1012.mywire.org/index.php?id=170662&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 8.5
+http://uro-levene-1012.mywire.org/index.php?id=196792&token=DeaTHLesS
 
-#EXTINF:-1 tvg-name="VIZI BELGESEL" tvg-id="VIZI.BELGESEL.tr" group-title="BELGESEL",VIZI BELGESEL
-https://tv.cdn-vizi.workers.dev/?ID=96
+###############################          TRT 1          #######################################################################################
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+https://tv.cdn-vizi.workers.dev/?ID=1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+http://149.13.0.66:4000/trt1hd
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+https://cdn-eu.tivimivi.com/streams/153/master.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+https://turkuaz.tecostream.xyz/proxy?url=https://tv-trt1-esdai.medya.trt.com.tr/master_1440p.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+http://149.13.0.66:4000/trt1hd
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.HD.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL YEDEK",TRT 1
+https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://uro-levene-1012.mywire.org/index.php?id=196784&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://uro-levene-1012.mywire.org/index.php?id=170655&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://116.202.238.88/TRT1_TR/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 1
+http://uro-levene-1012.mywire.org/index.php?id=10790&token=DeaTHLesS
 
-#EXTINF:-1 tvg-name="VIZON WILD" tvg-id="VIZON.WILD.tr" group-title="BELGESEL",VIZON WILD
-https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
+###############################          TRT 2          #######################################################################################
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL YEDEK",TRT 2
+https://tv.cdn-vizi.workers.dev/?ID=34
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT.2.HD.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL YEDEK",TRT 2
+https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 2
+http://uro-levene-1012.mywire.org/index.php?id=196785&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TRT 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
 
-#EXTINF:-1 tvg-id=""  tvg-name="MMN TURK TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi677HirxrOAgcd2LLCn0itdIWF84tqd7XZ2koLBUUqw123H0L2-n7QUo2t-EXPks5jiID1IUEAIblBBL4HbU0WxQs0u8Or5Mh6IAG8_awh_EcyYMJ-Oea9KzwddVn05glaLRmc9WVnBm-5Vx7lsECc_NWFRGJQt4OWpjZKc4jypzTI3mt5WfQDC9FHFQ=w134-h38" group-title="BELGESEL", MMN TURK TV
-http://mmn.mypsx.net:1935/live/mmnhdradioturky/playlist.m3u8
+###############################          TRT 4K          #######################################################################################
+#EXTINF:-1 tvg-name="TRT 4K" tvg-id="TRT.4K.tr" group-title="ULUSAL YEDEK",TRT 4K
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
 
-################################################          SPOR          ##############################################################################
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-id="EUROSPORT.1.tr" group-title="SPOR",EUROSPORT 1
-http://uro-levene-1012.mywire.org/index.php?id=196844&token=DeaTHLesS
-#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-id="EUROSPORT.2.tr" group-title="SPOR",EUROSPORT 2
-http://uro-levene-1012.mywire.org/index.php?id=196845&token=DeaTHLesS
-############ SPOR ##########################################################################################################
+###############################          TEVE 2          #######################################################################################
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="ULUSAL YEDEK",TEVE 2
+https://tv.cdn-vizi.workers.dev/?ID=27
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="ULUSAL YEDEK",TEVE 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="ULUSAL YEDEK",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="ULUSAL YEDEK",TEVE 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+#EXTINF:-1 tvg-name="TEVE2 HD" tvg-id="TEVE2.HD.tr" group-title="ULUSAL YEDEK",TEVE 2
+https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?=&sid=84h6viw84vh1&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+http://uro-levene-1012.mywire.org/index.php?id=196796&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+http://uro-levene-1012.mywire.org/index.php?id=170665&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TEVE 2
+http://uro-levene-1012.mywire.org/index.php?id=314615&token=DeaTHLesS
 
-#EXTINF:23, group-title="SPOR",EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:60, group-title="SPOR",EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
-#EXTINF:60, group-title="SPOR",EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/channels/Euro_Sport_1_HD.m3u8
-#EXTINF:0, group-title="SPOR",EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196844&token=DeaTHLesS
-#EXTINF:23, group-title="SPOR",EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:23, group-title="SPOR",EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivees2.m3u8
-#EXTINF:23, group-title="SPOR",EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/channels/Euro_Sport_2_HD.m3u8
-#EXTINF:0, group-title="SPOR",EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196845&token=DeaTHLesS
-#EXTINF:0, group-title="SPOR",EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10691&token=DeaTHLesS
-#EXTINF:24, group-title="SPOR",TRT SPOR YILDIZ
-#EXTVLCOPT:network-caching=1000
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
+###############################          BEYAZ TV          ######################################################################################
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ.TV.HD.tr" group-title="ULUSAL YEDEK",BEYAZ TV
+https://tv.cdn-vizi.workers.dev/?ID=9
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ.TV.HD.tr" group-title="ULUSAL YEDEK",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ.TV.HD.tr" group-title="ULUSAL YEDEK",BEYAZ TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ.TV.HD.tr" group-title="ULUSAL YEDEK",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ.TV.HD.tr" group-title="ULUSAL YEDEK",BEYAZ TV
+https://streams.uzunmuhalefet.com/stream/710fb148-7b3d-4ca2-b6c2-743097885a45.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+https://trn03.tulix.tv/gt-beyaztv/index.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48880
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+http://uro-levene-1012.mywire.org/index.php?id=196794&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+http://uro-levene-1012.mywire.org/index.php?id=10757&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",BEYAZ TV
+http://uro-levene-1012.mywire.org/index.php?id=170663&token=DeaTHLesS
 
-################################################          HABER         ##############################################################################
-###############################          BLOOMBERG HT          ################################################################################
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="HABER",BLOOMBERG HT
-https://cdn-eu.tivimivi.com/streams/111/master.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="HABER",BLOOMBERG HT
-https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG" tvg-id="Bloomberg.tr" group-title="HABER",BLOOMBERG HT
-https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8
-#EXTINF:60,B group-title="HABER",LOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
-#EXTINF:30, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bloomberg_Ht.m3u8
-#EXTINF:0, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
-#EXTINF:0, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
-#EXTINF:0, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170674&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196806&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10778&token=DeaTHLesS
-#EXTINF:60, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:60, group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:network-caching=1000
-https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
+###############################          360 TV          #######################################################################################
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360.HD.tr" group-title="ULUSAL YEDEK",360 TV
+https://tv.cdn-vizi.workers.dev/?ID=29
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360.HD.tr" group-title="ULUSAL YEDEK",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360.HD.tr" group-title="ULUSAL YEDEK",360 TV
+https://trn03.tulix.tv/gt-sky360/playlist.m3u8
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360.HD.tr" group-title="ULUSAL YEDEK",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360.HD.tr" group-title="ULUSAL YEDEK",360 TV
+https://streams.uzunmuhalefet.com/stream/90fefbea-4a78-4f02-962f-2e1e4ad22f98.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",360 TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
+#EXTINF:0, group-title="ULUSAL YEDEK",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",360 TV
+http://uro-levene-1012.mywire.org/index.php?id=10761&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",360 TV
+http://uro-levene-1012.mywire.org/index.php?id=196805&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",360 TV
+http://uro-levene-1012.mywire.org/index.php?id=170668&token=DeaTHLesS
 
-###############################          CNBC-E          #######################################################################################
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-e
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-e
-https://cdn-eu.tivimivi.com/streams/120/master.m3u8
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-e
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" group-title="HABER",CNBC-e
-https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
-#EXTINF:1800, group-title="HABER",CNBC-e
-#EXTVLCOPT:network-caching=1000
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:30, group-title="HABER",CNBC-e
-#EXTVLCOPT:network-caching=1000
-https://cdn.tecostream.xyz/CNBC_E.m3u8
-#EXTINF:1800, group-title="HABER",CNBC-e
-#EXTVLCOPT:network-caching=1000
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:0, group-title="HABER",CNBC-e
-#EXTVLCOPT:network-caching=1000
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-#EXTINF:0, group-title="HABER",CNBC-e
-#EXTVLCOPT:network-caching=1000
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:0, group-title="HABER",CNBC-e
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-#EXTINF:30, group-title="HABER",CNBC-e
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-
-################################################################################################################################################
-
-#EXTINF:-1 tvg-name="TV100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100
-https://cdn-eu.tivimivi.com/streams/116/master.m3u8
-#EXTINF:-1 tvg-name="TV100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:2700, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:2696, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
-#EXTINF:60, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
-#EXTINF:0, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
-#EXTINF:0, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/TV_100.m3u8
-#EXTINF:0, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-#EXTINF:60, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-#EXTINF:0, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170667&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=1165402&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",TV 100
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=1165403&token=DeaTHLesS
-
-#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
-https://cdn-eu.tivimivi.com/streams/128/master.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-id="NTV.HD.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:60, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
-#EXTINF:60, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
-#EXTINF:60, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
-#EXTINF:18, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/ntv.m3u8
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/NTV.m3u8
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48935
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48936
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49174
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49175
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170676&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196797&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",NTV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10756&token=DeaTHLesS
-
-#EXTINF:-1 tvg-name="HABERTÜRK" tvg-id="HABERTÜRK.HD.tr" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="HABER",HABERTURK
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:0, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Haber_Turk.m3u8
-#EXTINF:600, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
-#EXTINF:60, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:60, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
-#EXTINF:600, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-https://ciner.daioncdn.net/haberturktv/haberturktv_720p.m3u8?sid=81&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
-#EXTINF:0, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48933
-#EXTINF:0, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48934
-#EXTINF:0, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196799&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170675&token=DeaTHLesS
-#EXTINF:0,H group-title="HABER",ABERTÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10780&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=1165406&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",HABERTÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=1165407&token=DeaTHLesS
-
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER.GLOBAL.HD.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
-#EXTINF:60, group-title="HABER",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-#EXTINF:60, group-title="HABER",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:60, group-title="HABER",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:30, group-title="HABER",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Haber_Global_TV.m3u8
-#EXTINF:0, group-title="HABER",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49265
-#EXTINF:60, group-title="HABER",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:0, group-title="HABER",HABER GLOBAL
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314417&token=DeaTHLesS
-
-#EXTINF:-1 tvg-name="SZC TV" tvg-id="SZC.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SZC TV
-https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SZC TV" tvg-id="SZC.TV.tr" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SZC TV
-https://boncuktv.seni-elime-gecirirsem.workers.dev/szctv
-#EXTINF:30, group-title="HABER",SZC TV
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
-#EXTINF:0, group-title="HABER",SZC TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49173
-#EXTINF:30, group-title="HABER",SZC TV
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
-#EXTINF:0, group-title="HABER",SZC TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314430&token=DeaTHLesS
-
-#EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK.TV.tr" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="HABER",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:2700, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:60, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-#EXTINF:2700, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:0, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:0, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Halk_Tv.m3u8
-#EXTINF:2700, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:0, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
-#EXTINF:0, group-title="HABER",HALK TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314419&token=DeaTHLesS
-
-#EXTINF:0, group-title="HABER",KRT TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
-#EXTINF:30, group-title="HABER",KRT TV
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
-#EXTINF:30, group-title="HABER",KRT TV
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
-#EXTINF:0, group-title="HABER",KRT TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314422&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",KRT TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314423&token=DeaTHLesS
-
-#EXTINF:-1 tvg-name="CNN TÜRK HD" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://cdn-eu.tivimivi.com/streams/114/master.m3u8
-#EXTINF:-1 tvg-name="CNN TÜRK HD" tvg-id="CNN.TÜRK.HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
-#EXTINF:30, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
-#EXTINF:0, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49261
-#EXTINF:0, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49262
-#EXTINF:40, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-http://116.202.238.88/CNNTURK_TR/index.m3u8
-#EXTINF:40, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170672&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196798&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",CNN TÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10777&token=DeaTHLesS
-
-#EXTINF:-1 tvg-name="GZT TV" tvg-id="GZT.TV.tr" group-title="HABER",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-name="GZT TV" tvg-id="GZT.TV.tr" group-title="HABER",GZT TV
-https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3u8
-#EXTINF:29, group-title="HABER",GZT TV
-#EXTVLCOPT:network-caching=1000
-https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
-#EXTINF:29, group-title="HABER",GZT TV
-#EXTVLCOPT:network-caching=1000
-https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
-#EXTINF:31, group-title="HABER",GZT TV
-#EXTVLCOPT:network-caching=1000
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TURKISH PRESS" tvg-id="TURKISH.PRESS.tr" group-title="HABER",TURKISH PRESS
-https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
-#EXTINF:21, group-title="HABER",TURKISH PRESS
-#EXTVLCOPT:network-caching=1000
-https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="TELENEWS" tvg-id="TELENEWS.tr" group-title="HABER",TELENEWS
-https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
-#EXTINF:23, group-title="HABER",TELENEWS
-#EXTVLCOPT:network-caching=1000
-https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE.1.tr" group-title="HABER",TELE 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-
-#EXTINF:-1 tvg-name="MK TV" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_103.png" group-title="HABER",MK TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-
-#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-
-#EXTINF:-1 tvg-name="MELTEM TV" tvg-id="MELTEM.TV.tr" tvg-logo="https://i.hizliresim.com/n9otvqm.png" group-title="HABER",MELTEM TV
-https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="24 TV" tvg-id="24.HD.tr" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="HABER",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-#EXTINF:60, group-title="HABER",24 HD
-#EXTVLCOPT:network-caching=1000
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-
-#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT.HABER.HD.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER
-https://ensonhaber-live.ercdn.net/trthaber/trthaber_1080p.m3u8
-
-#EXTINF:-1 tvg-name="AHABER" tvg-id="A.HABER.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="HABER",A HABER
-https://cdn.tecostream.xyz/A_haber.m3u8
-#EXTINF:0, group-title="HABER",A HABER
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929
-#EXTINF:0, group-title="HABER",A HABER
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48930
-#EXTINF:0, group-title="HABER",A HABER
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=196800&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",A HABER
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10791&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",A HABER
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170671&token=DeaTHLesS
-
-#EXTINF:30, group-title="HABER",DHA
-#EXTVLCOPT:network-caching=1000
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
-#EXTINF:0, group-title="HABER",DHA 1
-#EXTVLCOPT:network-caching=1000
-https://603c568fccdf5.streamlock.net/live/dhaweb1/playlist.m3u8
-#EXTINF:30, group-title="HABER",DHA 2
-#EXTVLCOPT:network-caching=1000
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
-#EXTINF:29, group-title="HABER",DHA
-#EXTVLCOPT:network-caching=1000
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:30, group-title="HABER",DHA 2
-#EXTVLCOPT:network-caching=1000
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
-#EXTINF:29, group-title="HABER",DHA 1
-#EXTVLCOPT:network-caching=1000
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
-#EXTINF:30, group-title="HABER",DHA 2
-#EXTVLCOPT:network-caching=1000
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
-#EXTINF:0, group-title="HABER",AA 
-#EXTVLCOPT:network-caching=1000
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-#EXTINF:25, group-title="HABER",IHA
-#EXTVLCOPT:network-caching=1000
-https://live01.iha.tv/webabone/live/chunks.m3u8
-#EXTINF:0, group-title="HABER",TGRT HABER
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10755&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",TGRT HABER
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=170677&token=DeaTHLesS
-#EXTINF:0, group-title="HABER",FLASH HABER
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314428&token=DeaTHLesS
-
-#EXTINF:23, group-title="HABER",SURMANSET
-#EXTVLCOPT:network-caching=1000
-https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
-#EXTINF:0, group-title="HABER",TRT HABER
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48925
-#EXTINF:0, group-title="HABER",TRT HABER
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48926
-#EXTINF:0, group-title="HABER",TRT WORLD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48927
-
-########### MUSIC #######################################################################################
-
-#EXTINF:0, group-title="MUZIK",DREAM TÜRK
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48958
-#EXTINF:0, group-title="MUZIK",DREAM TÜRK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314378&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",LIVING MUSIC
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314387&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",KRAL TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314386&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",KRALPOP
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314385&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",KRALPOP
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314376&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",NR1 TURK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314377&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",NR1
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314379&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",POWERTURK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=10728&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",POWER TV
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314380&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",NUMBERONE FM TURK
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314374&token=DeaTHLesS
-#EXTINF:0, group-title="MUZIK",NUMBERONE FM
-#EXTVLCOPT:network-caching=1000
-http://uro-levene-1012.mywire.org/index.php?id=314375&token=DeaTHLesS
+###############################          TV 4          #######################################################################################
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="ULUSAL YEDEK",TV 4
+http://tv.glturk.workers.dev/?ID=TV4_HD
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="ULUSAL YEDEK",TV 4
+https://trn03.tulix.tv/gt-tv4/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="ULUSAL YEDEK",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="ULUSAL YEDEK",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="ULUSAL YEDEK",TV 4
+https://trn03.tulix.tv/gt-tv4/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV.4.tr" group-title="ULUSAL YEDEK",TV 4
+https://streams.uzunmuhalefet.com/stream/39e2ff02-8468-4c67-8388-ab83d792071b.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48881
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+http://uro-levene-1012.mywire.org/index.php?id=10775&token=DeaTHLesS
+#EXTINF:0, group-title="ULUSAL YEDEK",TV 4
+http://uro-levene-1012.mywire.org/index.php?id=314593&token=DeaTHLesS
