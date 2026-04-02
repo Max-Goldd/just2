@@ -5,18 +5,21 @@
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:86399, group-title="SALON",TABII TV
+#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=x_jOY6i_kEupfpF7NXdTYg&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
-#EXTINF:86399, group-title="SALON",TABII TV
+#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:86399, group-title="SALON",TABII TV
+#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
 #EXTVLCOPT:network-caching=1000
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
-#EXTINF:0, group-title="SALON",TABII TV
+#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=314798&token=DeaTHLesS
+#EXTINF:-1 tvg-name="tabii TV" tvg-id="tabii.TV.tr" group-title="SALON",TABII TV
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291
 
 #EXTINF:-1 tvg-name="REELS TV" tvg-id="REELS.TV.tr" group-title="SALON",REELS TV
 https://30a-tv.com/feeds/720p/63.m3u8
@@ -33,6 +36,9 @@ http://uro-levene-1012.mywire.org/index.php?id=151820&token=DeaTHLesS
 #EXTINF:0, group-title="SALON",FX
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=10726&token=DeaTHLesS
+#EXTINF:0, group-title="SALON",FX HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
 #EXTINF:0, group-title="SALON",EPIC DRAMA
 #EXTVLCOPT:network-caching=1000
 http://uro-levene-1012.mywire.org/index.php?id=314500&token=DeaTHLesS
@@ -286,3 +292,263 @@ https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
 https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 #EXTINF:0 tvg-name="CINE6" tvg-logo="https://i.postimg.cc/x1HvRKXW/In-Shot-20251017-233353886.png" group-title="SALON",CINE6
 https://tv191.radyotelekom.com.tr:3118/stream/play.m3u8
+
+#EXTINF:0, group-title="SALON",PLAY TV
+#EXTVLCOPT:network-caching=1000
+https://streams.uzunmuhalefet.com/stream/5e98fbc1-ddd0-4c55-a6fa-f2e2dec6687c.m3u8
+#EXTINF:0, group-title="SALON",BASKA TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/baskatv-kick.m3u8
+#EXTINF:0, group-title="SALON",TURKUZPLAY
+#EXTVLCOPT:network-caching=1000
+https://github.com/UzunMuhalefet/streams/raw/refs/heads/main/catcast/turkuzplay1.m3u8
+
+#EXTINF:0, group-title="SALON",HABABAM SINIFI
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49292
+#EXTINF:0, group-title="SALON",Orumcek Adam FILM
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49298
+#EXTINF:0, group-title="SALON",Salon 007
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49299
+#EXTINF:0, group-title="SALON",Film Animasyon
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49300
+#EXTINF:0, group-title="SALON",Jackie Chan Film
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49301
+#EXTINF:0, group-title="SALON",Hizli ve Ofkeli
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49309
+#EXTINF:0, group-title="SALON",X-Men Salon
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49310
+#EXTINF:0, group-title="SALON",BOX BiLiM KURGU 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49311
+#EXTINF:0, group-title="SALON",BOX BiLiM KURGU 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49312
+#EXTINF:0, group-title="SALON",BOX BiLiM KURGU 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49313
+#EXTINF:0, group-title="SALON",BOX BiLiM KURGU 4
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49314
+#EXTINF:0, group-title="SALON",BOX BiLiM KURGU 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49315
+#EXTINF:0, group-title="SALON",BOX BiLiM KURGU 6
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49316
+#EXTINF:0, group-title="SALON",BOX BiLiM KURGU 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49317
+#EXTINF:0, group-title="SALON",BOX ACTiON 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49318
+#EXTINF:0, group-title="SALON",BOX ACTiON 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49319
+#EXTINF:0, group-title="SALON",BOX ACTiON 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49320
+#EXTINF:0, group-title="SALON",BOX ACTiON 4
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49321
+#EXTINF:0, group-title="SALON",BOX ACTiON 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49322
+#EXTINF:0, group-title="SALON",BOX ACTiON 6
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49323
+#EXTINF:0, group-title="SALON",BOX ACTiON 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49324
+#EXTINF:0, group-title="SALON",BOX ACTiON 8
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49325
+#EXTINF:0, group-title="SALON",BOX ACTiON 9
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49326
+#EXTINF:0, group-title="SALON",BOX GERiLiM 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49327
+#EXTINF:0, group-title="SALON",BOX GERiLiM 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49328
+#EXTINF:0, group-title="SALON",BOX GERiLiM 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49329
+#EXTINF:0, group-title="SALON",BOX GERiLiM 4
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49330
+#EXTINF:0, group-title="SALON",BOX GERiLiM 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49331
+#EXTINF:0, group-title="SALON",BOX DRAM 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49332
+#EXTINF:0, group-title="SALON",BOX DRAM 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49333
+#EXTINF:0, group-title="SALON",BOX DRAM 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49334
+#EXTINF:0, group-title="SALON",BOX DRAM 4
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49335
+#EXTINF:0, group-title="SALON",BOX DRAM 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49336
+#EXTINF:0, group-title="SALON",BOX DRAM 6
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49337
+#EXTINF:0, group-title="SALON",BOX DRAM 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49338
+#EXTINF:0, group-title="SALON",BOX DRAM 8
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49339
+#EXTINF:0, group-title="SALON",BOX DRAM 9
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49340
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49341
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49342
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49343
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 4
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49344
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49345
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 6
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49346
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49347
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 8
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49348
+#EXTINF:0, group-title="SALON",BOX FANTASTiC 9
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49349
+#EXTINF:0, group-title="SALON",BOX KORKU 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49350
+#EXTINF:0, group-title="SALON",BOX KORKU 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49351
+#EXTINF:0, group-title="SALON",BOX KORKU 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49352
+#EXTINF:0, group-title="SALON",BOX KORKU 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49353
+#EXTINF:0, group-title="SALON",BOX KORKU 6
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49354
+#EXTINF:0, group-title="SALON",BOX KORKU 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49355
+#EXTINF:0, group-title="SALON",BOX MACERA 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49356
+#EXTINF:0, group-title="SALON",BOX MACERA 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49357
+#EXTINF:0, group-title="SALON",BOX MACERA 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49358
+#EXTINF:0, group-title="SALON",BOX MACERA 4
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49359
+#EXTINF:0, group-title="SALON",BOX MACERA 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49360
+#EXTINF:0, group-title="SALON",BOX MACERA 6
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49361
+#EXTINF:0, group-title="SALON",BOX COMEDY 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49362
+#EXTINF:0, group-title="SALON",BOX COMEDY 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49363
+#EXTINF:0, group-title="SALON",BOX COMEDY 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49364
+#EXTINF:0, group-title="SALON",BOX COMEDY 4
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49365
+#EXTINF:0, group-title="SALON",BOX COMEDY 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49366
+#EXTINF:0, group-title="SALON",BOX COMEDY 6
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49367
+#EXTINF:0, group-title="SALON",BOX COMEDY 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49368
+#EXTINF:0, group-title="SALON",BOX COMEDY 8
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49369
+#EXTINF:0, group-title="SALON",BOX COMEDY 9
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49370
+#EXTINF:0, group-title="SALON",DIGITALBOX 1
+#EXTVLCOPT:network-caching=1000
+https://vdo.digitalbox.xyz:3243/hybrid/play.m3u8
+#EXTINF:0, group-title="SALON",DIGITALBOX 2
+#EXTVLCOPT:network-caching=1000
+https://vdo.digitalbox.xyz:3444/hybrid/play.m3u8
+#EXTINF:0, group-title="SALON",DIGITALBOX 3
+#EXTVLCOPT:network-caching=1000
+https://vdo.digitalbox.xyz:3791/stream/play.m3u8
+#EXTINF:0, group-title="SALON",DIGITALBOX 4
+#EXTVLCOPT:network-caching=1000
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+#EXTINF:0, group-title="SALON",DIGITALBOX 5
+#EXTVLCOPT:network-caching=1000
+https://vdo.digitalbox.xyz:3883/hybrid/play.m3u8
+#EXTINF:0, group-title="SALON",DIGITALBOX 6
+#EXTVLCOPT:network-caching=1000
+https://vdo.digitalbox.xyz:3925/stream/play.m3u8
+#EXTINF:0, group-title="SALON",Masha ile Koca Ayi
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49371
+#EXTINF:0, group-title="SALON",Masha ile Koca Ayi 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49372
+#EXTINF:0, group-title="SALON",The Looney Tunes Show 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49383
+#EXTINF:0, group-title="SALON",The Looney Tunes Show 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49384
+#EXTINF:0, group-title="SALON",Heidi (Cizgi Dizi)
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49385
+#EXTINF:0, group-title="SALON",Tom ve Jerry
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49386
+#EXTINF:0, group-title="SALON",Tom ve Jerry 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49387
+#EXTINF:0, group-title="SALON",Tom ve Jerry 3
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49388
+#EXTINF:0, group-title="SALON",MASA ILE KOCA AYI
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49390
+#EXTINF:0, group-title="SALON",SEVIMLI DOSTLAR TV
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49394
