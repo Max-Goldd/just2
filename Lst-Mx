@@ -1,1 +1,264 @@
-...
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/info_Logo.png" group-title="TURK SPOR",*****INFO*****
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28.m3u8
+#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/info_Logo.png" group-title="TURK SPOR",*****INFO TURKIYE*****
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/30192.m3u8
+#EXTINF:-1 tvg-logo="https://www.dmy.info/wp-content/uploads/2016/09/turkfutbol-680x350.png" group-title="TURK SPOR",*****TURK SPOR*****
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",TR: MAC OZETLERI
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43799.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-sports-haber-tr.png" group-title="TURK SPOR",TR: beIN SPORTS HABER HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/12.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4k-int.png" group-title="TURK SPOR",TR: beIN SPORTS 4K (Minimum 150mbps)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54986.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TURK SPOR",TR: beIN SPORTS 1 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28547.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TURK SPOR",TR: beIN SPORTS 1 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TURK SPOR",TR: beIN SPORTS 1 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png" group-title="TURK SPOR",TR: beIN SPORTS 1 HD+ (FEED) | CDN
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1062.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TURK SPOR",TR: beIN SPORTS 2 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TURK SPOR",TR: beIN SPORTS 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/19.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TURK SPOR",TR: beIN SPORTS 2 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png" group-title="TURK SPOR",TR: beIN SPORTS 2 HD+ (FEED)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/37588.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TURK SPOR",TR: beIN SPORTS 3 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TURK SPOR",TR: beIN SPORTS 3 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/22.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TURK SPOR",TR: beIN SPORTS 3 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/23.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png" group-title="TURK SPOR",TR: beIN SPORTS 3 HD+ (FEED)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53421.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TURK SPOR",TR: beIN SPORTS 4 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/27.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TURK SPOR",TR: beIN SPORTS 4 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TURK SPOR",TR: beIN SPORTS 4 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png" group-title="TURK SPOR",TR: beIN SPORTS 4 HD+ (FEED)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53422.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TURK SPOR",TR: beIN SPORTS 5 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41929.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TURK SPOR",TR: beIN SPORTS 5 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41930.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TURK SPOR",TR: beIN SPORTS 5 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41931.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png" group-title="TURK SPOR",TR: beIN SPORTS 5 HD+ (FEED)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53423.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-max-int.png" group-title="TURK SPOR",TR: beIN SPORTS MAX 1 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54965.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-max-int.png" group-title="TURK SPOR",TR: beIN SPORTS MAX 1 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/10.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-1-max-int.png" group-title="TURK SPOR",TR: beIN SPORTS MAX 1 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53419.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-max-int.png" group-title="TURK SPOR",TR: beIN SPORTS MAX 2 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54966.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-max-int.png" group-title="TURK SPOR",TR: beIN SPORTS MAX 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/11.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-2-max-int.png" group-title="TURK SPOR",TR: beIN SPORTS MAX 2 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53420.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor.png" group-title="TURK SPOR",TR: TIVIBUSPOR SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54967.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor.png" group-title="TURK SPOR",TR: TIVIBUSPOR HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/37362.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor1.png" group-title="TURK SPOR",TR: TIVIBUSPOR 1 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54968.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor1.png" group-title="TURK SPOR",TR: TIVIBUSPOR 1 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor2.png" group-title="TURK SPOR",TR: TIVIBUSPOR 2 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54969.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor2.png" group-title="TURK SPOR",TR: TIVIBUSPOR 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/14.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor3.png" group-title="TURK SPOR",TR: TIVIBUSPOR 3 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54970.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor3.png" group-title="TURK SPOR",TR: TIVIBUSPOR 3 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/15.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor4.png" group-title="TURK SPOR",TR: TIVIBUSPOR 4 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54971.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/Tivibuspor4.png" group-title="TURK SPOR",TR: TIVIBUSPOR 4 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/32395.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII TV HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56604.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56605.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53503.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 1 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56606.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 1 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52559.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56607.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 2 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52560.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 3 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56608.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 3 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52561.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 4 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56609.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 4 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52562.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 5 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56610.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 5 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52563.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 6 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56611.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 6 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52564.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 7 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56612.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 7 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56613.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 8 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56614.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tabii.png" group-title="TURK SPOR",TR: TABII SPOR 8 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56615.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TURK SPOR",TR: SPOR SMART SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54972.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TURK SPOR",TR: SPOR SMART HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28391.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TURK SPOR",TR: SPOR SMART HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/smartspor2.png" group-title="TURK SPOR",TR: SPOR SMART 2 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54973.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/smartspor2.png" group-title="TURK SPOR",TR: SPOR SMART 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28524.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-tr.png" group-title="TURK SPOR",TR: S SPORT SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54974.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-tr.png" group-title="TURK SPOR",TR: S SPORT HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/17.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-tr.png" group-title="TURK SPOR",TR: S SPORT HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/36.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-2-tr.png" group-title="TURK SPOR",TR: S SPORT 2 SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54975.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-2-tr.png" group-title="TURK SPOR",TR: S SPORT 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/s-sport-2-tr.png" group-title="TURK SPOR",TR: S SPORT 2 HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53418.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 1 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33517.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 2 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/34289.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 3 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35110.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 4 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35111.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 5 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35112.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 6 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35113.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 7 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56478.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/main/ssportplus.png" group-title="TURK SPOR",TR: S SPORT PLUS HD 8 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56479.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxentv.png" group-title="TURK SPOR",TR: EXXEN TV HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/46719.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxentv.png" group-title="TURK SPOR",TR: EXXEN TV HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/46720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 1 SD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35829.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 1 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35346.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 1 HD+ (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/34656.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 2 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35347.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 2 HD+ (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/34657.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 3 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35348.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 3 HD+ (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35114.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 4 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35397.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 4 HD+ (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35396.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 5 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35399.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 5 HD+ (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35398.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 6 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35401.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 6 HD+ (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35400.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 7 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35412.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 8 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35413.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/exxen.png" group-title="TURK SPOR",TR: EXXEN SPORT 9 HD (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35830.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/beinconnect.png" group-title="TURK SPOR",TR: beIN CONNECT 1
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29006.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/beinconnect.png" group-title="TURK SPOR",TR: beIN CONNECT 2
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29007.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/beinconnect.png" group-title="TURK SPOR",TR: beIN CONNECT 3
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29008.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/beinconnect.png" group-title="TURK SPOR",TR: beIN CONNECT 4
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29009.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/beinconnect.png" group-title="TURK SPOR",TR: beIN CONNECT 5
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29010.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/beinconnect.png" group-title="TURK SPOR",TR: beIN CONNECT 6
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35391.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png" group-title="TURK SPOR",TR: A SPOR SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54976.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png" group-title="TURK SPOR",TR: A SPOR HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/30.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png" group-title="TURK SPOR",TR: A SPOR HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/31.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png" group-title="TURK SPOR",TR: TRT SPOR SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54977.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png" group-title="TURK SPOR",TR: TRT SPOR HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/32.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png" group-title="TURK SPOR",TR: TRT SPOR HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TURK SPOR",TR: TRT SPOR YILDIZ SD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54978.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="TURK SPOR",TR: TRT SPOR YILDIZ HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/17137.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/htspor.png" group-title="TURK SPOR",TR: HT SPOR HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53424.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/htspor.png" group-title="TURK SPOR",TR: HT SPOR HD+
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59037.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",TR: EKOL SPORTS
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59604.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/galatasaray-tv-tr.png" group-title="TURK SPOR",TR: GS TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/fenerbahce-tv-tr.png" group-title="TURK SPOR",TR: FB TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/34.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/fenerbahce-tv-tr.png" group-title="TURK SPOR",TR: FB TV HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/34414.m3u8
+#EXTINF:-1 tvg-logo="http://2kapak.plustvmedia.com/plustr/sifirtv.png" group-title="TURK SPOR",TR: SIFIR TV (NESiNE 3. LiG)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60072.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png" group-title="TURK SPOR",TR: SPORTS TV HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/38.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-1-fr.png" group-title="TURK SPOR",TR: EUROSPORT 1 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/42.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/eurosport-2-fr.png" group-title="TURK SPOR",TR: EUROSPORT 2 HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nba-tv-rs.png" group-title="TURK SPOR",TR: NBA TV SD (TR/ENG)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54979.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nba-tv-rs.png" group-title="TURK SPOR",TR: NBA TV HD (TR/ENG)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/fightbox-pl.png" group-title="TURK SPOR",TR: FIGHTBOX
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/40.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tay-tv-tr.png" group-title="TURK SPOR",TR: TAY TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/44.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tjk-tv-tr.png" group-title="TURK SPOR",TR: TJK TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/45.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.filbox.com.tr/channellogos/1733496505695-logo.png" group-title="TURK SPOR",TR: FILSPOR 1 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60820.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.filbox.com.tr/channellogos/1759301979594-logo.png" group-title="TURK SPOR",TR: FILSPOR 2 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60821.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.filbox.com.tr/channellogos/1759301987493-logo.png" group-title="TURK SPOR",TR: FILSPOR 3 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60822.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.filbox.com.tr/channellogos/1759301996151-logo.png" group-title="TURK SPOR",TR: FILSPOR 4 (MAC ZAMANI)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60823.m3u8
