@@ -14,9 +14,17 @@ http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111262
 http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111263
 
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
+http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10153
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
+https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=ATV&ext=.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
+https://t.freetv.fun/live/atv.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
+https://t.freetv.fun/live/atv-1.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+https://cdn.codenet.work/streamgo/stremgo123/4906.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
 http://localiptv.site:80/PromaciosTelegram/VyjUvxQcbcNJ/195
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.HD.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
@@ -42,8 +50,6 @@ http://116.202.238.88/SHOWTV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW.TV.HD.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL",SHOW TV
 http://mnbgy.com:80/jancisFreance23123/c2BxzzeuT8D4rdYZwQqr33321/111259
 
-#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL",NOW TV
-http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10153
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL",NOW TV
 http://hdlocal.de:8080/group-sky.ddns.net22/sH6JbvQNHVVD/10156
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL",NOW TV
