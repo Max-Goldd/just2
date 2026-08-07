@@ -113,5 +113,6 @@ https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png" group-title="BELGESEL",5 Minutes Craft
 https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-#EXTINF:-1 tvg-name="REELS TV" tvg-id="REELS.TV.tr" group-title="BELGESEL",REELS TV
+#EXTINF:-1 tvg-name="REELS TV" tvg-id="REELS.TV.tr" tvg-logo="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1020,h_536/https://reeltv.com/wp-content/uploads/2024/07/ReelTV-Profile.jpg" group-title="BELGESEL",REELS TV
 https://30a-tv.com/feeds/720p/63.m3u8
+
