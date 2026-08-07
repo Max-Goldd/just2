@@ -22,11 +22,11 @@ http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913167&extens
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",DMAX 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913166&extension=ts
 
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",TLC 
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="BELGESEL",TLC 
 http://176.65.146.171:9981/stream/channelid/51792379?profile=htsp
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",TLC 
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="BELGESEL",TLC 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913181&extension=ts
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",TLC 
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="BELGESEL",TLC 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913180&extension=ts
 
 #EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME TR" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" group-title="BELGESEL",BEIN GURME
