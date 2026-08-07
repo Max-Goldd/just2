@@ -1,231 +1,116 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="BELGESEL",TRT BELGESEL
 https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="BELGESEL",TRT BELGESEL
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="BELGESEL",TRT BELGESEL
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913192&extension=ts
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="BELGESEL",TRT BELGESEL
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913191&extension=ts
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="BELGESEL",TRT BELGESEL
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913190&extension=ts
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" tvg-logo="https://i.postimg.cc/d1SknPCZ/TRT-Belgesel-logo-2019-svg.png" group-title="BELGESEL",TRT BELGESEL
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913178&extension=ts
 
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",DMAX 
 http://176.65.146.171:9981/stream/channelid/1342132759?profile=htsp
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",DMAX 
 https://vavoo.ahkm.workers.dev/?ID=869937351a88d2213b307
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",DMAX 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913167&extension=ts
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",DMAX 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913166&extension=ts
 
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" group-title="BELGESEL",TLC 
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",TLC 
 http://176.65.146.171:9981/stream/channelid/51792379?profile=htsp
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" group-title="BELGESEL",TLC 
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",TLC 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913181&extension=ts
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" group-title="BELGESEL",TLC 
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="BELGESEL",TLC 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913180&extension=ts
 
-#EXTINF:-1 group-title="BELGESEL",BEIN GURME
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="beIN GURME TR" tvg-logo="https://picon-13398.kxcdn.com/beingourmet.jpg" group-title="BELGESEL",BEIN GURME
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913165&extension=ts
 
-#EXTINF:-1 group-title="BELGESEL",BEIN IZ
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://picon-13398.kxcdn.com/beiniz.jpg" group-title="BELGESEL",BEIN IZ
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=1925951&extension=ts
 
-#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-id="VIASAT.HISTORY.tr" group-title="BELGESEL",VIASAT HISTORY 
+#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-id="VIASAT.HISTORY.tr" tvg-logo="http://picons.cmshulk.com/picons/913162.png" group-title="BELGESEL",VIASAT HISTORY 
 https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
-#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-id="VIASAT.HISTORY.tr" group-title="BELGESEL",VIASAT HISTORY 
+#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-id="VIASAT.HISTORY.tr" tvg-logo="http://picons.cmshulk.com/picons/913162.png" group-title="BELGESEL",VIASAT HISTORY 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913162&extension=ts
 
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="VIASAT.EXPLORE.tr" group-title="BELGESEL",VIASAT EXPLORE
+#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="VIASAT.EXPLORE.tr" tvg-logo="http://picons.cmshulk.com/picons/913161.png" group-title="BELGESEL",VIASAT EXPLORE
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913161&extension=ts
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="VIASAT.EXPLORE.tr" group-title="BELGESEL",VIASAT EXPLORE
+#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="VIASAT.EXPLORE.tr" tvg-logo="http://picons.cmshulk.com/picons/913161.png" group-title="BELGESEL",VIASAT EXPLORE
 https://vavoo.ahkm.workers.dev/?ID=17854799143a91dbd33c73
 
 
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="BELGESEL",DISCOVERY CHANNEL 
 https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="BELGESEL",DISCOVERY CHANNEL 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913183&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="BELGESEL",DISCOVERY CHANNEL 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913182&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="BELGESEL",DISCOVERY CHANNEL 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913175&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="BELGESEL",DISCOVERY CHANNEL 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913174&extension=ts
 
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" group-title="BELGESEL",DISCOVERY ID 
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="BELGESEL",DISCOVERY ID 
 https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" group-title="BELGESEL",DISCOVERY ID 
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="BELGESEL",DISCOVERY ID 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913173&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" group-title="BELGESEL",DISCOVERY ID 
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="BELGESEL",DISCOVERY ID 
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913172&extension=ts
 
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="BELGESEL",BBC EARTH
 https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="BELGESEL",BBC EARTH
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913171&extension=ts
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="BELGESEL",BBC EARTH
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913170&extension=ts
 
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="BELGESEL",NATIONAL GEOGRAPHIC
 https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="BELGESEL",NATIONAL GEOGRAPHIC
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913186&extension=ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="BELGESEL",NATIONAL GEOGRAPHIC
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913185&extension=ts
 
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
 https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913189&extension=ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913188&extension=ts
 
 
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-id="ANIMAL.PLANET.HD.tr" group-title="BELGESEL",ANIMAL PLANET
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-id="ANIMAL.PLANET.HD.tr" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg" group-title="BELGESEL",ANIMAL PLANET
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913187&extension=ts
 
-#EXTINF:-1 group-title="BELGESEL",YABAN TV
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TR" tvg-logo="https://picon-13398.kxcdn.com/yabantr.jpg" group-title="BELGESEL",YABAN TV
 https://vavoo.ahkm.workers.dev/?ID=17885039351c239343b6b1
-#EXTINF:-1 group-title="BELGESEL",YABAN TV
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TR" tvg-logo="https://picon-13398.kxcdn.com/yabantr.jpg" group-title="BELGESEL",YABAN TV
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913177&extension=ts
-#EXTINF:-1 group-title="BELGESEL",YABAN TV
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TR" tvg-logo="https://picon-13398.kxcdn.com/yabantr.jpg" group-title="BELGESEL",YABAN TV
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913176&extension=ts
 
-#EXTINF:-1 group-title="BELGESEL",HISTORY
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="BELGESEL",HISTORY
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913169&extension=ts
 
-#EXTINF:-1 tvg-name="DOCUBOX HD" tvg-id="DOCUBOX.HD.tr" group-title="BELGESEL",DOCUBOX
+#EXTINF:-1 tvg-name="DOCUBOX HD" tvg-id="DOCUBOX.HD.tr" tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="BELGESEL",DOCUBOX
 https://proud-river-e20b.pantonum1.workers.dev/docubox.m3u8
 
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVE.NATURE.tr" group-title="BELGESEL",LOVE NATURE
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVE.NATURE.tr" tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="BELGESEL",LOVE NATURE
 http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913160&extension=ts
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVE.NATURE.tr" group-title="BELGESEL",LOVE NATURE
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVE.NATURE.tr" tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="BELGESEL",LOVE NATURE
 https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 
-#EXTINF:-1 group-title="BELGESEL",Adventure Earth
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1299-LG-Logo-PNG-100x100_v4.png" group-title="BELGESEL",Adventure Earth
 https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AdventureEarth/playlist.m3u8
 
-#EXTINF:-1 group-title="BELGESEL",5 Minutes Craft
-https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
-
-#EXTM3U
-
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
-https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913192&extension=ts
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913191&extension=ts
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913190&extension=ts
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT.BELGESEL.tr" group-title="BELGESEL",TRT BELGESEL
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913178&extension=ts
-
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
-http://176.65.146.171:9981/stream/channelid/1342132759?profile=htsp
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
-https://vavoo.ahkm.workers.dev/?ID=869937351a88d2213b307
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913167&extension=ts
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" group-title="BELGESEL",DMAX 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913166&extension=ts
-
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" group-title="BELGESEL",TLC 
-http://176.65.146.171:9981/stream/channelid/51792379?profile=htsp
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" group-title="BELGESEL",TLC 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913181&extension=ts
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" group-title="BELGESEL",TLC 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913180&extension=ts
-
-#EXTINF:-1 group-title="BELGESEL",BEIN GURME
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913165&extension=ts
-
-#EXTINF:-1 group-title="BELGESEL",BEIN IZ
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=1925951&extension=ts
-
-#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-id="VIASAT.HISTORY.tr" group-title="BELGESEL",VIASAT HISTORY 
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
-#EXTINF:-1 tvg-name="VIASAT HISTORY" tvg-id="VIASAT.HISTORY.tr" group-title="BELGESEL",VIASAT HISTORY 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913162&extension=ts
-
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="VIASAT.EXPLORE.tr" group-title="BELGESEL",VIASAT EXPLORE
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913161&extension=ts
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" tvg-id="VIASAT.EXPLORE.tr" group-title="BELGESEL",VIASAT EXPLORE
-https://vavoo.ahkm.workers.dev/?ID=17854799143a91dbd33c73
-
-
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913183&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913182&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913175&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-id="DISCOVERY.CHANNEL.tr" group-title="BELGESEL",DISCOVERY CHANNEL 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913174&extension=ts
-
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" group-title="BELGESEL",DISCOVERY ID 
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" group-title="BELGESEL",DISCOVERY ID 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913173&extension=ts
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-id="DISCOVERY.ID.tr" group-title="BELGESEL",DISCOVERY ID 
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913172&extension=ts
-
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913171&extension=ts
-#EXTINF:-1 tvg-name="BBC EARTH" tvg-id="BBC.EARTH.tr" group-title="BELGESEL",BBC EARTH
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913170&extension=ts
-
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913186&extension=ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-id="NATIONAL.GEOGRAPHIC.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913185&extension=ts
-
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913189&extension=ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" group-title="BELGESEL",NATIONAL GEOGRAPHIC WILD
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913188&extension=ts
-
-
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-id="ANIMAL.PLANET.HD.tr" group-title="BELGESEL",ANIMAL PLANET
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913187&extension=ts
-
-#EXTINF:-1 group-title="BELGESEL",YABAN TV
-https://vavoo.ahkm.workers.dev/?ID=17885039351c239343b6b1
-#EXTINF:-1 group-title="BELGESEL",YABAN TV
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913177&extension=ts
-#EXTINF:-1 group-title="BELGESEL",YABAN TV
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913176&extension=ts
-
-#EXTINF:-1 group-title="BELGESEL",HISTORY
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913169&extension=ts
-
-#EXTINF:-1 tvg-name="DOCUBOX HD" tvg-id="DOCUBOX.HD.tr" group-title="BELGESEL",DOCUBOX
-https://proud-river-e20b.pantonum1.workers.dev/docubox.m3u8
-
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVE.NATURE.tr" group-title="BELGESEL",LOVE NATURE
-http://raptor-tv.com:80/play/live.php?mac=A0:BB:3E:11:11:74&stream=913160&extension=ts
-#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="LOVE.NATURE.tr" group-title="BELGESEL",LOVE NATURE
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-
-#EXTINF:-1 group-title="BELGESEL",Adventure Earth
-https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AdventureEarth/playlist.m3u8
-
-#EXTINF:-1 group-title="BELGESEL",5 Minutes Craft
+#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png" group-title="BELGESEL",5 Minutes Craft
 https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
 #EXTINF:-1 tvg-name="REELS TV" tvg-id="REELS.TV.tr" group-title="BELGESEL",REELS TV
