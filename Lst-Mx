@@ -1,1 +1,1462 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/trt1_hd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Trt 1 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182943&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/atv_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Atv ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182944&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/show_tv_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Show Tv ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182945&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Star Tv ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/kanal_d_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Kanal D ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182946&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Now ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182948&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tv8_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Tv 8 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tv85_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Tv 8,5 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182950&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/beyaz_tv_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Beyaz Tv ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182955&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/kanal7_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Kanal 7 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182953&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/teve_2_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Teve 2 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182954&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/atv_tr_2.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️A2 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182952&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/360tvtr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️360 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/show_tv_tr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Show Max ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182951&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ahabertr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️A Haber ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182962&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trthaberhd.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Trt Haber ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182957&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/haberturk.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Haber Türk ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182958&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cnnturk.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Cnn Türk ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182960&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/haberglobal.jpg" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Haber Global ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182963&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ntvtr.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Ntv ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182961&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/24haber.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️24 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182964&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Lider Haber ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182965&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/trt1_hd.png" group-title="TR - ULUSAL FHD",(TR) Trt 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2838&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/atv_tr.png" group-title="TR - ULUSAL FHD",(TR) Atv FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3054&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/show_tv_tr.png" group-title="TR - ULUSAL FHD",(TR) Show Tv FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2874&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/kanal_d_tr.png" group-title="TR - ULUSAL FHD",(TR) Kanal D FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2945&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL FHD",(TR) Star TV FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2855&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="TR - ULUSAL FHD",(TR) Now ᴛᴠ FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2977&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tv8_tr.png" group-title="TR - ULUSAL FHD",(TR) Tv 8 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2815&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tv85_tr.png" group-title="TR - ULUSAL FHD",(TR) Tv 8,5 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2810&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/beyaz_tv_tr.png" group-title="TR - ULUSAL FHD",(TR) Beyaz ᴛᴠ FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/kanal7_tr.png" group-title="TR - ULUSAL FHD",(TR) Kanal 7 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2951&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/teve_2_tr.png" group-title="TR - ULUSAL FHD",(TR) Teve 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2850&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/trt2.png" group-title="TR - ULUSAL FHD",(TR) Trt 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29026&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/atv_tr_2.png" group-title="TR - ULUSAL FHD",(TR) A2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3067&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/360tvtr.png" group-title="TR - ULUSAL FHD",(TR) 360 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7537&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/show_tv_tr.png" group-title="TR - ULUSAL FHD",(TR) Show Max FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=48899&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal7avrupa.png" group-title="TR - ULUSAL FHD",(TR) Kanal 7 Avrupa FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2950&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/Flag/turkey.png" group-title="TR - ULUSAL FHD",✦✦✦ TR  ULUSAL HD ✦✦✦
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=1436&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/trt1_hd.png" group-title="TR - ULUSAL FHD",(TR) Trt 1 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2837&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/atv_tr.png" group-title="TR - ULUSAL FHD",(TR) Atv HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3052&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/kanal_d_tr.png" group-title="TR - ULUSAL FHD",(TR) Kanal D HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2944&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/show_tv_tr.png" group-title="TR - ULUSAL FHD",(TR) Show Tv HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2873&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/showtvtr.png" group-title="TR - ULUSAL FHD",(TR) Show Türk HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2876&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/star_tv_tr_hd.png" group-title="TR - ULUSAL FHD",(TR) Star Tv HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2854&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/foxhd.png" group-title="TR - ULUSAL FHD",(TR) Now Tv HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2976&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/beyaz_tv_tr.png" group-title="TR - ULUSAL FHD",(TR) Beyaz Tv HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3016&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/kanal7_tr.png" group-title="TR - ULUSAL FHD",(TR) Kanal 7 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tv85_tr.png" group-title="TR - ULUSAL FHD",(TR) Tv 8,5 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2809&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tv8_tr.png" group-title="TR - ULUSAL FHD",(TR) Tv 8 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2814&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tv8int.png" group-title="TR - ULUSAL FHD",(TR) Tv 8 Int HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2813&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/atv_tr_2.png" group-title="TR - ULUSAL FHD",(TR) A2 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3066&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/Flag/turkey.png" group-title="TR - ULUSAL FHD",✦✦✦ SD KANALLAR ✦✦✦
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7305&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/atvavrupa.png" group-title="TR - ULUSAL FHD",(TR) Atv Avrupa
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3053&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/eurostartr.png" group-title="TR - ULUSAL FHD",(TR) Euro Star
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tgrteu.png" group-title="TR - ULUSAL FHD",(TR) Tgrt EU
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77261&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/eurod.png" group-title="TR - ULUSAL FHD",(TR) Euro D
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2991&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/teve_2_tr.png" group-title="TR - ULUSAL FHD",(TR) Teve 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2849&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tivi6.png" group-title="TR - YEREL",(TR) Tivi 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=384444&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/akittvtr.png" group-title="TR - YEREL",(TR) Ilke TV 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=199707&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/akittvtr.png" group-title="TR - YEREL",(TR) Akit TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=34572&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/aksutv.png" group-title="TR - YEREL",(TR) Aksu TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30702&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/akillitvtr.png" group-title="TR - YEREL",(TR) Akilli TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29938&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/altastvtr.png" group-title="TR - YEREL",(TR) Ordu Altas TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=39334&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/anadoludernektvtr.png" group-title="TR - YEREL",(TR) Anadolu Dernek TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77260&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) BRT 1 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=122569&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) BRT 2 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=122568&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/akittvtr.png" group-title="TR - YEREL",(TR) Cem TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=341184&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/astvtr.png" group-title="TR - YEREL",(TR) Bursa As TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29940&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/benguturk.png" group-title="TR - YEREL",(TR) Bengü Türk
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=45338&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beykenttvtr.png" group-title="TR - YEREL",(TR) Beykent TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29944&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/brtvtr.png" group-title="TR - YEREL",(TR) BRTV Karadeniz
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=143912&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cantv24tr.png" group-title="TR - YEREL",(TR) Can TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=42905&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanalcaytr.png" group-title="TR - YEREL",(TR) Cay TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ciftcitvtr.png" group-title="TR - YEREL",(TR) Ciftci TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77255&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/dehatvtr.png" group-title="TR - YEREL",(TR) Deha TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29948&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/denizlirttr.png" group-title="TR - YEREL",(TR) Drt Denizli
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29950&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) ER TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=118226&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/estv.png" group-title="TR - YEREL",(TR) Es TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/edessatvtr.png" group-title="TR - YEREL",(TR) Edassa TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29952&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Eko Türk TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77252&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/guneydogutv.png" group-title="TR - YEREL",(TR) Guneydogu TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29963&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/hrtakdeniztvtr.png" group-title="TR - YEREL",(TR) Hrt Akdeniz
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanalbtr.png" group-title="TR - YEREL",(TR) Kanal B
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29935&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal3tr.png" group-title="TR - YEREL",(TR) Kanal 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30703&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Kanal 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77243&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal15tr.png" group-title="TR - YEREL",(TR) Kanal 15
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29970&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal23tr.png" group-title="TR - YEREL",(TR) Kanal 23
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29971&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal26tr.png" group-title="TR - YEREL",(TR) Kanal 26
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29972&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal32tr.png" group-title="TR - YEREL",(TR) Kanal 32
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29934&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal33tr.png" group-title="TR - YEREL",(TR) Kanal 33
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29973&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal42konyatr.png" group-title="TR - YEREL",(TR) Kanal 42
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=55398&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal43tr.png" group-title="TR - YEREL",(TR) Kanal 43
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29974&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal58tr.png" group-title="TR - YEREL",(TR) Kanal 58
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89843&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanal68tr.png" group-title="TR - YEREL",(TR) Kanal 68
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29977&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kentturk.jfif" group-title="TR - YEREL",(TR) Kent Turk
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29984&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanalurfa.png" group-title="TR - YEREL",(TR) Kanal Urfa
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29982&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Kanal Firat
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=108333&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanalavrupa.png" group-title="TR - YEREL",(TR) Kanal Avrupa
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29979&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Kardelen TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89849&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Köy TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89848&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kozatv.png" group-title="TR - YEREL",(TR) Koza TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kontv.png" group-title="TR - YEREL",(TR) Kon Tv
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=55397&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/krttr.png" group-title="TR - YEREL",(TR) Krt TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29986&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kadirgatvtr.png" group-title="TR - YEREL",(TR) Kadirga TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77245&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/mercantvtr.png" group-title="TR - YEREL",(TR) Mercan TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29995&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/linetvtr.png" group-title="TR - YEREL",(TR) Line TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Mc EU
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89853&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Rumeli TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=129523&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/pamukkaletvtr.png" group-title="TR - YEREL",(TR) Pamukkale TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30001&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sat7.png" group-title="TR - YEREL",(TR) Sat:7 Turk
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=56986&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tvkayseritr.png" group-title="TR - YEREL",(TR) Kayseri TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Kibris Genc
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=122567&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Tv1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=129199&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tv4tr.png" group-title="TR - YEREL",(TR) Tv 4 Karamel TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tv5tr.png" group-title="TR - YEREL",(TR) Tv 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=31679&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Tv 42
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=129204&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tv52tr.png" group-title="TR - YEREL",(TR) Tv 52 Ordu
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2898&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Tv 1 Kayseri
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89844&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Tv Den
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=165199&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tarimturktr.png" group-title="TR - YEREL",(TR) Tarim Turk
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77262&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/satlogo/turkey2/rumeli_tv_tr.png" group-title="TR - YEREL",(TR) Tek Rumeli
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=103530&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ulusalkanal.png" group-title="TR - YEREL",(TR) Ulusal Kanal
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30018&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ucankustvtr.png" group-title="TR - YEREL",(TR) Ucankus TV 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=79444&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/vatantvtr.png" group-title="TR - YEREL",(TR) Vatan TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30701&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/vuslattv.png" group-title="TR - YEREL",(TR) Vuslat TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29961&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/yoltvde.png" group-title="TR - YEREL",(TR) Yol TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30026&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/yildiztvtrrize.png" group-title="TR - YEREL",(TR) Yildiz En
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30025&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Yeni Kocaeli TV 41
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=129201&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) Turkmeneli TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=155493&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - YEREL",(TR) AL Turkmenia TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=157347&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ahabertr.png" group-title="TR - HABER",(TR) A Haber 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3072&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/haberturk.png" group-title="TR - HABER",(TR) Haber Türk 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2970&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trthaberhd.png" group-title="TR - HABER",(TR) TRT Haber 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2830&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tgrthaber.png" group-title="TR - HABER",(TR) TGRT Haber 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2846&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cnnturk.png" group-title="TR - HABER",(TR) CNN Türk 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3006&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ntvtr.png" group-title="TR - HABER",(TR) NTV 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2894&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/24haber.png" group-title="TR - HABER",(TR) 24 TV 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=34571&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ulketvtr.png" group-title="TR - HABER",(TR) Ulke TV 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2801&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/halktvtr.png" group-title="TR - HABER",(TR) Halk TV 1 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29965&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/halktvtr.png" group-title="TR - HABER",(TR) Halk TV 2 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=180201&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/SZC_TV_logo.png" group-title="TR - HABER",(TR) Sözcü TV 1 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=147433&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/SZC_TV_logo.png" group-title="TR - HABER",(TR) Sözcü TV 2 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=178720&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/ekoltv.png" group-title="TR - HABER",(TR) Ekol TV 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=174769&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtturktr.png" group-title="TR - HABER",(TR) TRT Türk 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2823&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/bloomberght.png" group-title="TR - HABER",(TR) Bloomberg 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3013&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/bloomberght.png" group-title="TR - HABER",(TR) Bloomberg Ht
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182959&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - HABER",(TR) Lider Haber 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=129525&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/haberglobal.jpg" group-title="TR - HABER",(TR) Haber Global 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=48946&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - HABER",(TR) Flash TV 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=120304&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tyt-logo.png" group-title="TR - HABER",(TR) TYT Turk 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186543&extension=ts
+#EXTINF:-1 tvg-logo="/tv-logos/tvnett___250x150.png" group-title="TR - HABER",(TR) TV Net 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2804&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/krttr.png" group-title="TR - HABER",(TR) Krt TV 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2933&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/A_Para_logosu.jpg" group-title="TR - HABER",(TR) A Para 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29844&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/anewstrhd.png" group-title="TR - HABER",(TR) A News 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29843&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtworldtr.png" group-title="TR - HABER",(TR) TRT World 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2822&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/Flag/turkey.png" group-title="TR - HABER",✦✦✦ TR HABER HD ✦✦✦
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=1440&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/haberturk.png" group-title="TR - HABER",(TR) Haber Turk HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2969&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trthaberhd.png" group-title="TR - HABER",(TR) TRT Haber HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2829&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cnnturk.png" group-title="TR - HABER",(TR) CNN Turk HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ahabertr.png" group-title="TR - HABER",(TR) A Haber HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3071&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/24haber.png" group-title="TR - HABER",(TR) 24 TV HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=127719&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/360tvtr.png" group-title="TR - HABER",(TR) 360 TV HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3074&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematv1001tr.png" group-title="TR - HABER",(TR) TV 100 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=178721&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematv1001tr.png" group-title="TR - HABER",(TR) Tv 100 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=52541&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/uzayhabertr.png" group-title="TR - HABER",(TR) EgeMax TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30019&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/haber61tr.png" group-title="TR - HABER",(TR) Haber 61
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=61316&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Turkiye/tabii.png" group-title="TR - HABER",(TR) MK Haber TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=143907&extension=ts
+#EXTINF:-1 tvg-logo="/tv-logos/tele_1_tr.png" group-title="TR - HABER",(TR) MK Haber TV.
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137249&extension=ts
+#EXTINF:-1 tvg-logo="/tv-logos/tele_1_tr.png" group-title="TR - HABER",(TR) Tele 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2851&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Turkiyem Mix 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182743&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Turkiyem Mix 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182021&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Kral Pop HD 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2934&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Kral TV HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2935&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Power TV 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2885&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Power Türk 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2887&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Power Türk Slow
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170057&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Power Türk Taptaze
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170058&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Power Türk Akustik
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170056&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) TRT Muzik 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2828&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - MÜZİK",(TR) Nr1 Turk 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170414&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Nr1 Türk HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2897&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - MÜZİK",(TR) Nr1 Ask 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170413&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - MÜZİK",(TR) Nr 1 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170412&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Nr1 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2899&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Dream TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2995&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Dream Turk
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2996&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Ekin Turk TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=129529&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Karadeniz TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=24261&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Turkce Pop
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303601&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) Net Pop TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184278&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Turkce Pop
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105145&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Pop Müzik 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=23689&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Pop Muzik 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105383&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Arabesk 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185527&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Arabesk 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105349&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Dark Türkü 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183903&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Dark Türkü 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183904&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Dark Karadeniz
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185528&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Ahmet Kaya
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183902&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Azer Bülbül
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105298&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Bergen
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105299&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Bülent Ersoy
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=53191&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Ferdi Tayfur
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183905&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Ferdi Tayfur 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137199&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Müslüm Gürses 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=138516&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Müslüm Gürses 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184286&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ İbrahim Tatlises
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184277&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Emel Sayin
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184281&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Hakki Bulut
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184280&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Halit Bilgiç
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184279&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Koray Avcı
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184275&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Muazzez Ersoy
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184274&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Musa Eroğlu
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184273&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Sezen Aksu
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184270&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Neşet Ertas
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184272&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Volkan Konak
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=138363&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Tufan Altaş
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105387&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Barış Manço
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105390&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Zeki Müren
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=104949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Dark Mix
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184282&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Özgün Muzik
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184271&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Orhan Gencebay
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184269&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Trabzon Mix
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182744&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Tarkan
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105216&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Ankara Mix 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184284&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Oyun Havalari
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=45337&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Ankara Muhabbet
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184285&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Bozlak
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105217&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Mashup Mix
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=57177&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Köyde Relax
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=207025&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Enstrümantal
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182700&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Nostaljik Mix
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=177166&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Düet Müzik
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105457&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Kazanci Bedih
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184276&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Shakira
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184132&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - MÜZİK",(TR) ⁷-²⁴ Rap TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=180635&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtcocuk.png" group-title="TR - ÇOCUK",(TR) Trt Cocuk
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2833&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png" group-title="TR - ÇOCUK",(TR) Baby TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3051&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/nickjr.png" group-title="TR - ÇOCUK",(TR) Nick JR
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=9303&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjuniorhd.png" group-title="TR - ÇOCUK",(TR) Disney JR
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=9304&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - ÇOCUK",(TR) Moonbug
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170411&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - ÇOCUK",(TR) Cartoonito
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170410&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/minikago.png" group-title="TR - ÇOCUK",(TR) Minika Go
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2922&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cbeebieshd.png" group-title="TR - ÇOCUK",(TR) Cbeebies HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7431&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/minikacocuk.png" group-title="TR - ÇOCUK",(TR) Minika Cocuk
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2923&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/nickelodeonhd.png" group-title="TR - ÇOCUK",(TR) Nickelodeon HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2900&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png" group-title="TR - ÇOCUK",(TR) Cartoon Network
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - ÇOCUK",(TR) Diyanet Cocuk 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=159340&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) Sihirli Matematik
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97659&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Ebailkokul.png" group-title="TR - ÇOCUK",(TR) Trt Eba TV İlkokul HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=58179&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ebaortaokul.png" group-title="TR - ÇOCUK",(TR) Trt Eba TV Ortaokul HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=58180&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Ebalise.png" group-title="TR - ÇOCUK",(TR) Trt Eba TV Lise HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=58181&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Köstebekgiller
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175811&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR)  ⁷-²⁴ Animasyon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=196248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR)  ⁷-²⁴ Animasyon 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=213238&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Sevimli Dostlar 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=103507&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Niloya 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=28284&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Niloya 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184703&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Pepe TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=28367&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Rafadan Tayfa
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=96368&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Maşa ile Koca Ayi 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=32029&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Tom Ve Jerry
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47688&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Kral Şakir
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=71184&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Keloğlan
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=81425&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Şeker Hoca
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183217&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Casper
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=78474&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Emiray HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=96900&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Ciciki HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97472&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Kukuli
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183216&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR)  ⁷-²⁴ İbi HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=96990&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Can
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183214&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Hilda
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183215&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR)  ⁷-²⁴ Sirinler
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390107&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Trafik Tayfa
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47673&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR)  ⁷-²⁴ Family Guy
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390106&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Simpsonlar
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=155136&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Kaptan Pengu
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=141272&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Teletabiler
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=78469&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Leylek Kardeş
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97633&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Maysa ve Bulut
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97475&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Akıllı Tavşan Momo
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183213&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Canım Kardeşim
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97321&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Küçük Hezarfen
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97226&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Pırıl ve Su Elçileri
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97066&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Bulmaca Kulesi
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97660&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ Buz Devri Koleksiyonu
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47672&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) ⁷-²⁴ The Legend of Korra
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183218&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="TR - ÇOCUK",(TR) Mutlu Oyuncak Dükkanı
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97650&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/diyanettv.png" group-title="TR - DİNİ",(TR) Diyanet TV 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=178722&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/diyanettv.png" group-title="TR - DİNİ",(TR) Diyanet TV 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=34573&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/semerkandtv.png" group-title="TR - DİNİ",(TR) Semerkand TV 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2878&extension=ts
+#EXTINF:-1 tvg-logo="http://film.darktv.nl/logo/Logolar/vav-tv-buyuk.png" group-title="TR - DİNİ",(TR) Vav TV 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=148762&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/medinetvtr.png" group-title="TR - DİNİ",(TR) Medine TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29992&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/meltemtvtr.png" group-title="TR - DİNİ",(TR) Meltem TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=29994&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/lalegultvtr.png" group-title="TR - DİNİ",(TR) Lalegul TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30027&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/rehbertvtr.png" group-title="TR - DİNİ",(TR) Rehber TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=30003&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kudustvtr.png" group-title="TR - DİNİ",(TR) Kudus TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=14401&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/kanalon4.png" group-title="TR - DİNİ",(TR) Kanal on4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=50644&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/darklogo22.png" group-title="TR - DİNİ",(TR) Kabe TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47684&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/dosttvtr.png" group-title="TR - DİNİ",(TR) Dost TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2997&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/fmtvtr.png" group-title="TR - DİNİ",(TR) Fm TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77250&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Kur'an-ı Kerim 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184288&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Kur'an-ı Kerim Meal
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184289&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Maher Al-Mu'aiqly
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=295419&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Muhammed (S.A.V)
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185786&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turk_bayragi_02_tam35blog.gif" group-title="TR - DİNİ",(TR) Ilahi
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185540&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Dini Film 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185797&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Dini Film 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=295281&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Sohbet 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=295367&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Sohbet 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185787&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Ömer
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185782&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Hz. Yusuf
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185785&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Vefa Sultan 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185851&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DİNİ",(TR) Vefa Sultan 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=295158&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/tabii.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) Tabii TV FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=253041&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-TV.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) Tabii TV ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389476&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrboxoffice01hd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 1 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3050&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrboxoffice02hd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 2 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3049&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrboxoffice03hd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 3 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3048&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesturkhd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Turk 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3038&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesstarshd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Stars 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3039&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesaction02hd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Action 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3046&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviespremier01hd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Premiere 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89829&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviespremier02hd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Movies Premiere 2 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3041&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrseriesscifihd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Series 1 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89832&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrseries.png" group-title="TR - YABANCI SINEMA",(TR) Bein Series 2 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89831&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviescomedyhd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Series 3 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89830&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrseriesscifihd.png" group-title="TR - YABANCI SINEMA",(TR) Bein Series 4 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3035&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/moviesmartpremium.png" group-title="TR - YABANCI SINEMA",(TR) Moviesmart Turk 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2906&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/moviesmartclassic.png" group-title="TR - YABANCI SINEMA",(TR) Moviesmart Classic 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2918&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/dizismartpremiumhd.png" group-title="TR - YABANCI SINEMA",(TR) Premium Dizismart 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89833&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA",(TR) Sinema TV Comedy 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170407&extension=ts
+#EXTINF:-1 tvg-logo="http://film.darktv.nl/logo/Logolar/sinematvailetr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema Yerli 1 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170408&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA",(TR) Sinema Yerli 2 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170406&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvailetr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema Aile 1 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89838&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvailetr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema Aile 2 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170404&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinetivitr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema TV 1 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89835&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinetivitr2.png" group-title="TR - YABANCI SINEMA",(TR) Sinema TV 2 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89836&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvaksiyontr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema Aksion 1 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89839&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvaksiyontr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema Aksion 2 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170405&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematv1001tr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema TV 1001 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89837&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sinematv1001tr.png" group-title="TR - YABANCI SINEMA",(TR) Sinema TV 1002 4K+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=89834&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA",(TR) Epic Drama
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170409&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/fxtv.png" group-title="TR - YABANCI SINEMA",(TR) Fx HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2975&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Sinema TV 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=164248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Sinema TV 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=174557&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Sinema TV 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184290&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Sinema TV 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184394&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Sinema TV 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184395&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Sinema TV 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193346&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Komedi 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184263&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli komedi 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184266&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Komedi 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184267&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Komedi 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184268&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yerli Komedi 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=191843&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Yerli
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303616&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300712&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300713&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300714&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300715&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300716&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300717&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 7
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300718&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 8
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300719&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 9
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300720&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 10
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300721&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 11
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300722&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 12
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300723&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 13
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300724&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 14
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300725&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yerli 15
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300726&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴  Recep Ivedik 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=61192&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴  Recep Ivedik 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184448&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mahsun J
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183998&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Cem Yilmaz
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184287&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Şafak Sezer 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=61110&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Şafak Sezer 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=71211&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tabii Original 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183974&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tabii Original 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183975&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tabii Original 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183978&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tabii Original 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182054&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tabii Original 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187505&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Gain Original 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183979&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Gain Original 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183980&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Gain Original 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183999&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Sinema Belgesel
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=152032&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Nuri Bilge Ceylan
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=180002&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Taff Pictures Sinema
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=176481&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴  Yeşilçam 4K ᵘˡᵗʳᵃ 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186451&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Yeşilçam 4K ᵘˡᵗʳᵃ 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187282&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185937&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186762&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186763&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=21070&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴Kemal Sunal 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2984&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47680&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=71214&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101020&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184397&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 7
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184412&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 8
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184426&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 9
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184425&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kemal Sunal 10
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184424&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Hababam Sınıfı
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184416&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Yeşilçam HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184396&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Baddal Gazi
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47664&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kara Murat
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=136972&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Cüneyt Arkin 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47683&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Cüneyt Arkın 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97726&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Cüneyt Arkın 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=151106&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kadir İnanır 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2864&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kadir İnanır 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=71207&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kadir İnanır 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101048&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Ferdi Tayfur 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=370902&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Ferdi Tayfur 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=370903&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Müslüm Gürses
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=370904&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Orhan Gencebay
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=370905&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Orhan Gencebay 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=370906&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/html/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Emrah
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=352155&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Cilali Ibo
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101018&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Ayhan Işık
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101019&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Şener Şen 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=151779&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Tarik Akan
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47706&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Adile Naşit 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=97694&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Ilyas Salman
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2869&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Hülya Avşar 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47665&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kartal Tibed 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47671&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Kartal Tibed 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47662&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Türkan Şoray 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101029&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Türkan Şoray 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101032&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Türkan Şoray 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Yilmaz Guney 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=71213&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Yilmaz Güney 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=71209&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Yilmaz Güney 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=61256&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Serdar Gökhan
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=101013&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Ibrahim Tatlıses 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=151645&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YEŞİLÇAM ⁷-²⁴",(TR) ⁷-²⁴ Ibrahim Tatlıses 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2912&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Eşref Rüya
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187773&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Yeralti Sezon1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105717&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yeralti Sezon2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390109&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Halef 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=197760&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Halef 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390155&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Esra Erol
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186387&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Müge Anlı
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186383&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Guldur Guldur Show 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=198151&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Guldur Guldur Show 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=198156&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Guldur Guldur Show 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=199853&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Konusanlar Disney 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=197802&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Konusanlar Disney 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390110&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Konusanlar 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184000&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Konusanlar 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184001&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kurulus Osman 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390679&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kurulus Osman 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390156&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kurulus Osman 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=185995&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Uzak Sehir (Sezon 1)
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184002&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Uzak Sehir (Sezon2)
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=197308&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Teşkilat: Sezon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=94173&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Teşkilat: Sezon 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=80222&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Teşkilat: Sezon 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=79598&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Leyla ile Mecnun
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187774&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Akasya Durağı
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=95509&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Geniş Aile
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=198323&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Selena
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=198146&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Sahipsizler 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=142699&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Çocuklar Duymasın
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=198330&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Soz
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=94588&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cukur.jpg" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Ezel
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105421&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ İçerde
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187707&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Beyaz SHOW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184003&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kara Sevda
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105853&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Ersan Kuneri
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=143114&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Inci Taneleri
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=105787&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/cukur.jpg" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Börü: Sezon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=61136&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/XPkurtlar.jpg" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Börü 2039: Sezon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=76645&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kardeş Payı 4K ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187162&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kardeş Payı (Bipsiz)
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187182&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YERLI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Kurtlar Vadisi
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390108&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kurtlar Vadisi Pusu 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187706&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Kurtlar Vadisi Pusu 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=187708&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Deli Yürek: Sezon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=146583&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Deli Yürek: Sezon 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=146572&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - DIZI & SHOW ⁷-²⁴",(TR) ⁷-²⁴ Deli Yürek: Sezon 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=143149&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193938&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193939&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193942&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195322&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=208828&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ X Men 4K ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=197302&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Kasik 4K ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=208829&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Alt yazili 4K ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193941&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303602&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303603&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303604&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303605&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303606&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Aksiyon
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303614&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Korku
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303610&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Gerilim
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303609&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Komedi
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303607&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Fantastik
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303615&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Romantik
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303608&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Macera
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303613&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum Suc
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303612&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ CInemaximum BilimKurgu
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303611&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Max Vizyon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303629&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Max Vizyon 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303630&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Max Vizyon 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303631&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Max Vizyon 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303625&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Gold
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303617&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Action
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303618&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Korku
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303627&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Dram
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303626&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Vizyon
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303624&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Marvel
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303621&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Macera
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303620&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Comedy
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303619&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Western
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303628&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Fantastic
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303622&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mega Box Bilim Kurgu
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=303623&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300727&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300728&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300729&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300730&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300731&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300732&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 7
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300733&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 8
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300734&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 9
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300735&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 10
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300737&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Favoritebox Yabanci 11
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=300736&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182701&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182708&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182709&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182712&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182713&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182714&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 7
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182716&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 8
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182717&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 9
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182718&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Yabanci Sinema 10
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182719&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Aksiyon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186637&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Aksiyon 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182737&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Aksiyon 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182738&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Aksiyon 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182739&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Aksiyon 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182740&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Aksiyon 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182736&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Alt Yazili 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182741&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Alt Yazili 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=208376&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Alt Yazili 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=208378&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Alt Yazili 4
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=208379&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Alt Yazili 5
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=208380&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR)  ⁷-²⁴ Alt Yazili 6
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=208382&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tod Original 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182703&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tod Original 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=183973&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Tod Original 3
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184131&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Amazon 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182705&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Netflix 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182704&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Netflix 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=189355&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Disney+ 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182706&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Disney+ 2
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182707&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Klasik 1
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182742&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Turkcell Tv+
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182702&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ AL Pacino
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=91054&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴  Aamir Khan
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186729&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Rambo
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=186380&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Brad Pitt
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=80984&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Jackie Chan
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=71205&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Nicolas Cage
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=93454&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Van Damme
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=91071&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Jason Statham
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=47655&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - YABANCI SINEMA ⁷-²⁴",(TR) ⁷-²⁴ Mark Wahlberg
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=94648&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/asportr.png" group-title="TR - SPOR",(TR) A Spor ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=182966&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor Yildiz ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184037&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor 3 ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=184039&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/asportr.png" group-title="TR - SPOR",(TR) A Spor FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3069&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2824&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor Yildiz FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=129198&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor 3 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=77263&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2825&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtspor2.png" group-title="TR - SPOR",(TR) Trt Spor Yildiz HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=45485&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/htspor.png" group-title="TR - SPOR",(TR) HT Spor FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175117&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/htspor.png" group-title="TR - SPOR",(TR) Ekol Sports 4K
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193812&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="TR - SPOR",(TR) Sifir TV FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390072&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/nbatvus.png" group-title="TR - SPOR",(TR) Nba TV FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7427&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/dtaytv.png" group-title="TR - SPOR",(TR) Tay Tv FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2853&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/turkbayragi.png" group-title="TR - SPOR",✦ ✦ ✦ TR SPOR HD ✦ ✦ ✦
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=1449&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/asportr.png" group-title="TR - SPOR",(TR) A Spor HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137441&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtsporhd.png" group-title="TR - SPOR",(TR) Trt Spor
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2826&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1.png" group-title="TR - SPOR",(TR) EuroSport 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2989&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="TR - SPOR",(TR) EuroSport 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2988&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/sportstvtr.png" group-title="TR - SPOR",(TR) Sports TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/fbtvfenerbahce.png" group-title="TR - SPOR",(TR) Fb TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2985&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/galatasaraytv.png" group-title="TR - SPOR",(TR) Gs TV FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2972&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/bentvtr.png" group-title="TR - SPOR",(TR) Tjk TV
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2841&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus Info
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390105&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/smartsporhd.png" group-title="TR - S SPORT PLUS",(TR) Smart Spor 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=114630&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/smartsporhd.png" group-title="TR - S SPORT PLUS",(TR) Smart Spor 1 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2860&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ssporttr.png" group-title="TR - S SPORT PLUS",(TR) Saran Sport 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2881&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/ssporttr.png" group-title="TR - S SPORT PLUS",(TR) Saran Sport 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=52533&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/Ssport.png" group-title="TR - S SPORT PLUS",(TR) S Sport 1 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390677&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/Ssport.png" group-title="TR - S SPORT PLUS",(TR) S Sport 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=80320&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/Ssport.png" group-title="TR - S SPORT PLUS",(TR) S Sport 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=80321&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/Ssport.png" group-title="TR - S SPORT PLUS",(TR) S Sport 2 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390071&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195751&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 1 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389284&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=135189&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 2 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389283&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 3 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=135188&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 3 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389282&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 4 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=135187&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 4 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389281&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 5 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=135186&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 5 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389280&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 6 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=135185&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 6 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389279&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 7 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175343&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 7 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389278&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/SsportPlus.png" group-title="TR - S SPORT PLUS",(TR) S Sport Plus 8 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389277&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=295417&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=39472&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor2.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2844&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor3.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor 3 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2843&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor 4 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=304215&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor 1 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2845&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor 2 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7559&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tivibutrspor3.png" group-title="TR - TIVIBU SPORT",(TR) Tivibu Spor 3 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7561&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389477&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-1.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 1 ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389475&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-2.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 2 ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389478&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-3.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 3 ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389474&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-4.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 4 ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389473&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-5.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 5 ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389472&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-6.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 6 ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389471&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-7.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 7 ᵁᴸᵀᴿᴬ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=389470&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195752&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175071&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-1.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=252421&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-2.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175072&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-3.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 3 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175073&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-4.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 4 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175441&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-5.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 5 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175440&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-6.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 6 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175438&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-7.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 7 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175442&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-8.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor ᴴᴰ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=253039&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-1.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 1 ᴴᴰ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175666&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-2.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 2 ᴴᴰ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=252439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-3.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 3 ᴴᴰ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=252814&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-4.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 4 ᴴᴰ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=252817&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-5.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 5 ᴴᴰ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/Sport/TABII-SPOR-6.png" group-title="TR - TABII SPORTS",(TR) Tabii Spor 6 ᴴᴰ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=175437&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=117576&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=117577&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 3 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=117578&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 4 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=118876&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 5 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=118877&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 6 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=118878&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 7 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=150197&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 8 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=150196&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 1 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193473&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 2 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=177546&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 3 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=177545&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 4 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=177544&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 5 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=177543&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 6 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=150198&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 1 ʜᴅ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137813&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 2 ʜᴅ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137814&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 3 ʜᴅ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137815&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 4 ʜᴅ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137816&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 5 ʜᴅ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137817&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/EXXEN.png" group-title="TR - EXXEN  & FUCHS",(TR) Exxen 6 ʜᴅ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=137818&extension=ts
+#EXTINF:-1 tvg-logo="http://film.darktv.nl/TVLOGOLAR/GLORY.jpg" group-title="TR - SPOR",(TR) Glory / UFC
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=118310&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Haber FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3027&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Haber RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195750&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 4K ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=193627&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3033&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=174901&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 (50 Fps)
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195743&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=35701&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 SD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=34936&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports02hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=34937&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports02hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195744&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports02hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 2 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3032&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports03hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=34938&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports03hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195745&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports03hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 3 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports04hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3030&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports04hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 4 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195746&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports03hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=136248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports03hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195747&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports03hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=136249&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/satlogo/turkey/be_in_tr_sports_max_01_hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 1 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7555&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/lyngsat/tv/bb/bein-sports-max-2-qa-tr.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 2 RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7556&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/satlogo/turkey/be_in_tr_sports_max_01_hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 1 50 FPS
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=174907&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/satlogo/turkey/be_in_tr_sports_max_02_hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 2 50 FPS
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=174908&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/satlogo/turkey/be_in_tr_sports_max_01_hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 1 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195748&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/satlogo/turkey/be_in_tr_sports_max_01_hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Max 2 HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=195749&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect Info
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390095&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 1 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390096&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 2 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390097&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 3 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390098&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 4 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390099&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 5 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390100&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 6 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390101&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 7 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390102&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 8 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390103&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEIN CONNECT",(TR) Bein Connect 9 FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390104&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/natgeohd.png" group-title="TR - BELGESEL",(TR) Nat Geo FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=356437&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png" group-title="TR - BELGESEL",(TR) Nat Geo Wild FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2903&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/discoverychannel.png" group-title="TR - BELGESEL",(TR) Discovery Channel FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3004&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/viasathistory.png" group-title="TR - BELGESEL",(TR) Viasat History FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=147434&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/viasathistory.png" group-title="TR - BELGESEL",(TR) Viasat Explore FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=390073&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png" group-title="TR - BELGESEL",(TR) TLC FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2840&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/investigationdiscoveryushd.png" group-title="TR - BELGESEL",(TR) ID HD FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7429&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/dmaxhd.png" group-title="TR - BELGESEL",(TR) DMAX FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=31320&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/dmaxhd.png" group-title="TR - BELGESEL",(TR) DMAX RAW
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=211020&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/Turkiye/trt_4k_tr.png" group-title="TR - BELGESEL",(TR) TRT 4K ᵘˡᵗʳᵃ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=7326&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/trtbelgesel.png" group-title="TR - BELGESEL",(TR) TRT Belgesel FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2835&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/tgrtbelgesel.png" group-title="TR - BELGESEL",(TR) TGRT Belgesel FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2848&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrizhd.png" group-title="TR - BELGESEL",(TR) Bein Iz TV FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=3047&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/beintrgurmehd.png" group-title="TR - BELGESEL",(TR) Bein Gurme FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=31314&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/natgeopeoplehd.png" group-title="TR - BELGESEL",(TR) Love Nature FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2904&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/davincilearningasia.png" group-title="TR - BELGESEL",(TR) Da Vinci FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=31317&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/Flag/turkey.png" group-title="TR - BELGESEL",(TR) BBC Earth FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=99747&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/belgeseldark.png" group-title="TR - BELGESEL",(TR) TRT Avaz HD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=2836&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/Flag/turkey.png" group-title="TR - BELGESEL",(TR) Tarih TV FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=170403&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/yabantvtr.png" group-title="TR - BELGESEL",(TR) Yaban TV ʜᴅ
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=139079&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/belgeseldark.png" group-title="TR - BELGESEL",(TR) 103 Gol FHD
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=24615&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.214.151/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="TR - BELGESEL",(DE) ⁷-²⁴ Devbox Belgesel
+http://m.devbox.tv:80/play/live.php?mac=00:1A:79:8A:F1:39&stream=199871&extension=ts
